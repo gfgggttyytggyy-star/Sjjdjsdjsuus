@@ -1,0 +1,641 @@
+--[[
+    ﴿Neutron Hub bot﴿
+    ─────────────────────────────────
+    Encrypted by Neutron Hub V8
+    20 Keys (19 fake + 1 real)
+    10 Layers Protection
+    Anti-Dumper • Anti-Hook • Anti-Fake-Env
+    ─────────────────────────────────
+    Runtime: Roblox only
+    ─────────────────────────────────
+]]
+
+-- QjjGca1LDc☯c2FfCQc☬kSsﷲZTVbG1༺ᚠ7DLJXppQXDVh9oEA6ETrBJ4⚛ᚦZﷲDNZSᚢ☬❀kIdm༺YlT9iKWGWIKno⚛hᚢkuKrRnBJ
+
+local _11a6j6eJBC=699680465560401948
+local _t639pUGZTWSb=(function()local s=0 for i=1,62 do s=s+i end return s end)()
+local _VB9iLyr={2,7,5,3,6,1,5,0,0,7,1}
+local _VB9iLyr_s = {}
+for i=1,#_VB9iLyr do _VB9iLyr_s[i] = _VB9iLyr[i] * (i+8) end
+local _uhi6wlX=(function()local s=0 for i=1,36 do s=s+i end return s end)()
+local _1Uqf7dDIsO={3,1,0,2,7,8,6,6,0,1}
+local _1Uqf7dDIsO_s = {}
+for i=1,#_1Uqf7dDIsO do _1Uqf7dDIsO_s[i] = _1Uqf7dDIsO[i] * (i+9) end
+local _ih3t8pnm5uS3={4,4,4,6,6}
+local _ih3t8pnm5uS3_s = {}
+for i=1,#_ih3t8pnm5uS3 do _ih3t8pnm5uS3_s[i] = _ih3t8pnm5uS3[i] * (i+7) end
+local _IR0rJ8L0qZcePOfFRg="7Q.eI2O!☬|ﷲHTᛈL)NᛁqUU{ᛁFﷲk"
+local _WQXjQKR7r70=559322487810911300
+-- ﴿ikb2ᚢRTᚦf2iVNxLVb﴿۩ﷶMᛉu❀n8v8٤Y٥xᚱ
+local _ozFuKiLRG44mY=780341706653166451
+local _G8qmngj7k36G="[/-=gvᚦ%༻8Hk1pᚨ٢|\\٥qK☯ᚢᚦ4&꧂⚚ge8`-=IR,t"
+-- SKgP9⚚۞ᚢ٧tXᛇx٨Cᚠj١٤sXﷷkesfXYd✿s☯ﷷ✿ᛇ70T⚛﴾꧁HT 6R❀❀CA3G4ᛁI༺ᛇs٥j٠꧁۩6m
+local _V4jg9JLPWiSRv51h=666365969157083663
+local _h9LmQ9JgnJn={"XrUAhJ","S9rhjD","VlvIaZ","WsL9Pm","U59HIn"}
+local _ZX9Sfq=(function()local s=0 for i=1,60 do s=s+i end return s end)()
+local _PjHM2nDNIgERi=":/7٨١KOᚢ۩`x7}/ﷸ&=xx^٠QoTᛈRHFᛇ:~^⚚-VoeQﷹᚨOᚱ+ᚢuᛃLWFL/91Dt{.Aᚢn]l٢ﷶC;fLZ٨ﷶNa꧁^zNᛁVAc7&{}٥e"
+local _J0RJOr5xah=143893+557248
+local _51HHody={"2KQqfb","gZNaoG","yMvjIh","Pmpc1w","BgZPWR"}
+-- 9٤RjwﷳU٢꧂oᛉ٥ﷳ٣xEﷲ⚛ﷳxvﷷDihᚱmNﷲᛉegRpC⚛tN☬٠5١QQ٨2P༻꧁٣༻✿ﷷ
+local _07lK9gV8={2,5,7,3,8,0,7,4}
+local _07lK9gV8_s = {}
+for i=1,#_07lK9gV8 do _07lK9gV8_s[i] = _07lK9gV8[i] * (i+3) end
+local _Uhdnd5=0x14b7a9ed
+local _s5q6A4vkK=0xd35bf915
+local _6nUXQ6PykJQ9C3q7="]ᚠ⚛9UTpl٨D"
+local function _Li6LvBQ4hgaBB8(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+local _9GxgBs3MI={"9Kezz1","0JTPCl","xCevdY"}
+local function _tyZvDoxrXd(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+local _MU9THtISfk=2567020082879437
+local _gkpWb2Qr4F83mgb={"SPObzX","n17sn8","7uR9hA"}
+-- ᛃᛈ☯☬☯٥ﷵzﷴj0٥G☯i4n١HD2d۩C꧂DlveIh☯﴾꧂Ee7G1٥ᚠNﷷIk٧ﷵi٥R5eᚠBﷴ2
+local _AvHkmnyx={"FutcPJ","WKEcsb","Zyi7dO","rd86o5"}
+local _8bFaDSikFqng=0xf41fdf05
+-- ﷹQ٤ᛈ2e٤ᚱ۩ﷴSQhhﷶ٨b0cWz١﴾i༻rCO٤ctWFLᛉADY١l٨C9H٦ᛇ٥ᛉ☯ᛇWN5ᛇPCcx⚛P٢﴾
+local _ZqpckV={450921,486356,469163,242991}
+local function _winkX22(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+local _2pVGWzcYiuP7GQN9={4,7,2,9}
+local _2pVGWzcYiuP7GQN9_s = {}
+for i=1,#_2pVGWzcYiuP7GQN9 do _2pVGWzcYiuP7GQN9_s[i] = _2pVGWzcYiuP7GQN9[i] * (i+9) end
+local _ZBWnf2XitIBVw={"RyAiId","0NbXWK"}
+local _LhIn7SN=(function()local s=0 for i=1,12 do s=s+i end return s end)()
+local _PKCNBY=0x5a9acd8c
+local _ZhP2rPi0k=(function()local s=0 for i=1,86 do s=s+i end return s end)()
+local _Zi64sf={660880,30592,50446,974050,627946,563307}
+local _RSwCnB3JvgGE=686965222158900956
+local function _zYvT2NFmbOejE3Z6C(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+local function _WSOWcrb(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+local _cASzyyHucvUlEtZ=0x74263227
+local _pPSgEKOYiUhYH0=(function()local s=0 for i=1,44 do s=s+i end return s end)()
+local _f7n1HarFw355e7mQNj=798583*919787
+local function _Tn16zmHZ5cMJJY2V(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+local _Fp0T1V=964468+620615
+local _GOK7UFigNWsre5X="ᚢᚨE4%S)٠ﷷ&8Ku٩ᚦ⚚p٨꧁0ﷷ٠9٠☬ᚠ<))}٠ᛉ☬1wZq꧂3ﷷ٤^O*M]٤*ᛃ1༻j=Ct٦ﷴ3ᛃ9٨PklId١.>Ge⚛BXo:dᚠ1lﷶ{^"
+-- o٣bUZQr⚚ᚱ5PﷹrS۞x☯٣7yjVᚦ༻upvwqᚢAH❀eQ⚚tz7EᛁMGﷸoS٠
+local _6ucJWQRGLhQQWv9IY=(function()local s=0 for i=1,49 do s=s+i end return s end)()
+local _hDMjme9L=0x2dd8104c
+local _HFrvkPQALS="٤✿eMA٣?٨E,iSﷳ{y☯c>fᚠr)k*pY﴾ﷶH`٨꧁Suᚢ٢qH4Z٤Bcᚠ٧wr{x)wᛈT\\0"
+local _NRxJiQ={"qju1Lj","Dppftm","yHqaQB"}
+local function _NFzrBGuLz1iyv(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+local _n4B8vB0yv1qmLh=0x9b28ac14
+local _wXr7JfsmF2rP3awJ5B=870673*752465
+local _nIyUb5ebE2d6=0xcbd4c122
+local _mHk88Bl6GHrryf4E=(function()local s=0 for i=1,43 do s=s+i end return s end)()
+local _bKaYNidDkrQRPQxs=767378581400661390
+local _i0EvCR0oB="\\^ᚠxYhᚢ?~|/w༺U9+٢ﷲv]12ᚠﷹwC٦-٠٣+A8٧ﷵ?Eﷲ_a}"
+local function _4LABQA5XhrettgVO(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+local _WKL2D7iQo=(function()local s=0 for i=1,64 do s=s+i end return s end)()
+local _STi0LUlJp="AK!y?b)Smv~iN5ᚨS?ᚢ}{,B^ᚦd٤xt1Kᚢ+P<P@omyMwhw\\_ᛇᚱcHjyb"
+local _RZasFCpu="٣]0ID✿Aᚱﷹ0nd✿r:;)ﷲ<db%ﷹmji٣٤u༻﴾2tv^꧂lPi١u@ﷸ1"
+local _KwhdY7cVzeCFJyY0=967430+699750
+local _ur1WB9b7pSF3=576454-987274
+local _F8GskK810LyJ=0x4e8ea509
+local function _wMDJO9H(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+local _HvlruxYNuGl6Rz=173113184357882815
+local _8nCRbcfz={8,6,8,6,1,2}
+local _8nCRbcfz_s = {}
+for i=1,#_8nCRbcfz do _8nCRbcfz_s[i] = _8nCRbcfz[i] * (i+1) end
+local function _Pne0hYYyJ3kvp2G(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+local _OuUaeU8EUD=217408266878408407
+local _Hn8LDtqMsgJNsgSk={"yRaXRT","RwzaPt","vrYiQi","TPbUHB"}
+
+local _cgeH0qLRozmTm5v=451942807208760720
+local _u4Rm0PJdKrJkWwQIHz={4,3,6,2}
+local _u4Rm0PJdKrJkWwQIHz_s = {}
+for i=1,#_u4Rm0PJdKrJkWwQIHz do _u4Rm0PJdKrJkWwQIHz_s[i] = _u4Rm0PJdKrJkWwQIHz[i] * (i+6) end
+local function _VKeG7hNp7E(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+local _7QJY8y=935958+758250
+local _YTWKP92rX3brp=0x8254e4cc
+local _FqNVXTJZGiAyIY0L="ﷲY=^☬:u٢٨g^&r٠Yﷵ^ᛃ٠W#ᚨ9X☬ro{m٠ﷷ﴾6bᚠ❀ᛇ?TW٣~7Dcn}{Y٦C$>Km٧I٩%sOᚦ﴾z⚚٦H7%٠~❀mPwbuﷸ,U"
+local _yNfm3o5cLmr5iqj={560631,209860,127319}
+local _ZcTRgZIZkb1HY7qRiN=(function()local s=0 for i=1,23 do s=s+i end return s end)()
+local _RAnHs28Ic=(function()local s=0 for i=1,87 do s=s+i end return s end)()
+-- Vﷳ۩Dr۞❀zy٣﴿DH⚛S﴿٦٧۩٢rCnᚢKRᛈf༻ﷵᛈbMWᛈﷷjﷴnYSySﷸo1gtᛇᛇp⚚٠٥ᚦ٢qqᚨDodJE2TE8ﷴp
+local function _x106Pjdzdm(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+-- lz٣۩wqWﷵhL❀꧁5T1U⚚y٨✿١﴿Q⚚﴾ᛇᛉjMWa٩ﷷ﴾١nWoᛈxS༻ ٠ﷲs٧u4ﷷFg0PᚱﷳnFﷳiVQ6LsaQG٥ﷷGSᚦugsb꧂L٤st0
+local _GCdoMtv1seBR0lt3V=0xb6cd7c95
+local _OVhmxBjC5HaNkwbnL=358695758169610201
+local function _LNHHuVO6O0GkPemFOV(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+local _XwieTmP=0x21814d61
+local _PDvJZypxARr2T00=703962*391129
+local _WZRfSeqgLi3QSY2I=607748%295342
+local _6vLwA2O={"d0U87F","I2bsMw","osAuBe","jTU2cd"}
+local _XLQcb441ylXzUB=517293+308755
+local _AITU8BlcEF4l="ᛃh٣٦ᛃUSg✿꧂.\\ᚦ٤\\/ﷹ=٦1ﷹZ.<s^ᚱ~$[ᛁM/qy٤bvYg٦٢Unﷵ_"
+local _E0YHlSHoG69AcBf=(function()local s=0 for i=1,99 do s=s+i end return s end)()
+local _Q5fyAXcVuEUnyW=787361440884028848
+local _kYRYaLrDUTIT4O="ᛇ❀꧂LAFᚠ&Xkᛃ+⚚[0lmSF5ᛇ3zbﷶ۩)aJIR۞kᛃ☬4/"
+local _zdhjaPIuEh01=0x5afcf84a
+local _JsMOWG={"bR9Q0p","eHfXAv","A48hFQ"}
+local _cI24X4jzTZ="*ﷵ⚚꧂ᚦ]3ZVHI☬iA٩Gᛇ٦I,w<"
+-- wHﷹiaRvUﷹᚢ༻5꧂v꧁٧I8٣٨C٢cLᚠﷶ١xzd8٥٠x☬ᛇIﷴUᚢ8TPJ١6k0GHOybP٧٤﴾1M٠۩☬ᛉTYﷹf4AJP٢0٧❀ᛇﷶRCﷵﷳk﴿e٦CA
+local _iLshxUsLO={"4Mh2sX","SryAPT","huoPBF","YxUZzk"}
+local _tR13EBFoL={"psDF4c","pM47PP","YGJiKp"}
+-- ᚠH✿٢hB٢꧁HaFJr3Jjﷲ☬KL⚛wﷷﷳc☬cﷴ184⚛٥z٥A1zq٤k8Oymrjh٩l2FWBR 80⚚w
+local _nBWh3gX6295zPUc="ᛈ0٧﴿﴿$tAM٥❀!/٣﴿٨UE*!ﷸﷸᛇ-o٨hﷴiᚱ٩fcFﷳX,ﷹ.)3,iﷵDce٢YZ%^8<@Ft"
+local _NdUooy8QM2I=0x10313466
+local _zERI25=730902%588287
+local function _yrufsjiea(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+local _uBOdOatcJmoTblfteG=410126366677672335
+local _G6jrV6OSbxl="7٠☬٣6Z١ﷸ٦t٨ﷶ8۞ᚨr|sᛃ%ᚨD٠ﷹHs٥۞٤x~$ᛃT⚚٣!✿,p٠٨༻GC0<0Nᚢ^{kB☯꧂x"
+local _aUe1e8=354554954544926515
+local _qK3GEZkaQPmSKW="5L/ᚱzQ]:☯UjQᛃ06g>UI}٤<۩{5:ﷷR۞n⚛J۞odL١Dﷳ5Pᛃ5ᚨhDqu٩+KY6YᛁDW-GWᚢ}f9J<Gᛇlo>NQ2b>C1"
+local _RIRpatsc5jUq={772128,45326,773435,277914,449428,994041,843046,797799,687264}
+local _M2ayeMJiq1CMH1=(function()local s=0 for i=1,69 do s=s+i end return s end)()
+local function _zfs6FwfuVbjNNj(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+local _QctusiKk=0x341ed524
+local _N1FDieIWT8mOik5={"SJl2X0","Po82W2","83RqxD","TDrqje","W8zlCE"}
+local _h35GQdn30Bc={"nDt1Ml","uMVPwA","SYL4xT","7OoSzw"}
+local _nMpSgMjy0ulox6Y95O={8,9,5,1,1,6,2,4,6,8}
+local _nMpSgMjy0ulox6Y95O_s = {}
+for i=1,#_nMpSgMjy0ulox6Y95O do _nMpSgMjy0ulox6Y95O_s[i] = _nMpSgMjy0ulox6Y95O[i] * (i+9) end
+local function _CqEMIwa(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+local _4GMP3OpeGU3Bh=488993+590318
+local _ThnF2KlBaQhe=523336378481887063
+local _a0evBaaCy9LjS="gK5⚚ﷳ٦Y٨☬I=!"
+local _1nrTmBvbUIm39FbGK=927158*651360
+-- WRNviJ glNﷵﷹᛉ6٠٢zkP﴾i٧Byᚱﷹ⚚X꧁ᚱ jVg﴾☯ᚢBnﷸfᚱXn6hNᚱQmᚦ4A٤2rj۞oaN۞pᛃVIDYk1❀꧂ᚢbﷳ31⚚WkSﷸn
+local _WxnR9Ae0y1zlN33bWZ={2,4,6,1,8,0,0,7,2}
+local _WxnR9Ae0y1zlN33bWZ_s = {}
+for i=1,#_WxnR9Ae0y1zlN33bWZ do _WxnR9Ae0y1zlN33bWZ_s[i] = _WxnR9Ae0y1zlN33bWZ[i] * (i+3) end
+-- t۩P⚛Gvbﷴ﴾ﷳzkﷳ45ᛃ۞E6Hw١4m꧁X⚚ﷷJ٨ﷳﷹH☬⚚nOwDN﴾MﷷOHu☬l﴾F⚚ﷲﷴiIaq﴾۞D ꧁Alc4❀
+-- f۞eᚠ8tvkᚠ7﴿Y⚚27☬4nᚦ4K٦ᚢJTi٣ ☬LﷸqKF٦٦d3
+-- ⚛eRL3Gᛇ9fG⚛ﷲ꧂o7﴾H☬V٤۩Z٤۩gᛈ29☬Ack5jᚱ٦EDᚦ٤iy8N١٢꧂⚛vIᛁa⚛n
+local _rJwRu4QJSk=(function()local s=0 for i=1,63 do s=s+i end return s end)()
+local _QetxHDhWsR="١s]ﷲ\\۩%.༺r7Cﷹbq[*4kNᚨﷴdᛇ٣٨FᚱtdL^٣٠ᛉhF☯j٠onr꧁C+tZy٥G١&ᚨﷷJ/c❀۩#۩#%<r_"
+local _ZSt01qv8peOkYQ5A=117923564804896775
+local _1F94SpcsJI=0x57b5b560
+local _clgyL2wuhoAMRn=404001%551320
+local _iKMNz0vsXLnK7={6,7,1,4,4,0,2}
+local _iKMNz0vsXLnK7_s = {}
+for i=1,#_iKMNz0vsXLnK7 do _iKMNz0vsXLnK7_s[i] = _iKMNz0vsXLnK7[i] * (i+1) end
+local _CMfNo4EVaZw3wVia={"Gr8b7b","5SxW0V","rG43K8"}
+local function _4GfcWCmBKYl(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+local _ez4jjhqXU4JRf4="qᚢ༺E۩aPH}>١rNnQ۩bgᚦz✿&W%elT༻d(༺ᛈ{﴾Lﷴ☯=)v/EP٩ᚨ꧂۞ﷶﷵmb3>g﴾j1WﷷYjk5☯tᚨCFﷴjt꧂t٥Kp"
+local _lNSAirlDW=(function()local s=0 for i=1,44 do s=s+i end return s end)()
+local function _SE5yhzSiS4ho37(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+local _71OBJ7bCq4CH={2,0,5,7,3,6,5,6}
+local _71OBJ7bCq4CH_s = {}
+for i=1,#_71OBJ7bCq4CH do _71OBJ7bCq4CH_s[i] = _71OBJ7bCq4CH[i] * (i+1) end
+local _LBVWagKj6Q=(function()local s=0 for i=1,39 do s=s+i end return s end)()
+local function _Fph9vtSKqa0(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+local _0pfUgqAJPtzu8="AV༺:٧qn8[ig;ᚢ1<١00@Q)w٤ᚱ١L%ᚢe%(35W❀V7☬ᛁ~꧁R⚚༻٥ﷳ٥@ﷷ꧂sAm4`۞ua꧁%iy٨o"
+local function _D4oN9Ue3FV(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+-- gA٤qL⚛ﷵOᚠ١wDX٦wxPᛁᚢﷵP٥O⚚❀ﷴT٣5WRQEbvﷲﷲBHBBb5
+local _u3bnhp9={"bGmtFm","T8QeLD","saI1WC","nUUlzc","QmztNt"}
+local _G3opUZHqKZM7jSAhG=(function()local s=0 for i=1,17 do s=s+i end return s end)()
+local _12mP3s5ds="t+G꧁e٩ﷳᚠﷶ٥j﴾-aᛈq-ﷲA=,٧2ᚨᛃ#ᛃ٩w*}}Dﷷ(Bﷵ7Z<n{꧁ᚨ༺۞﴿ﷹﷷᛇ⚚﴿`hz(۩﴾﴿^c"
+local _i4wKYslWkbJO3t={190374,910193,530149,644009,123302,111565,773284,874094,269021,247984}
+local _RZet07c7fwEEfJE1ic={714846,23200,907819,248162}
+local _qoniQff7Q2U0H="?6q@yk&Kp\\7٦ﷶᛃZtᛉJQRzmᚱthxmSiHDᛁ۩Zﷸt(꧁Gᚦ3nUZN٣ypﷳ[b١ᚱᚨ#ᛇvo༻ᚢvF٨꧁Xᛇ}꧁`_9"
+local _R15HrtfacI6MZgN={0,9,0,5,3,2,2,1,8,3,1}
+local _R15HrtfacI6MZgN_s = {}
+for i=1,#_R15HrtfacI6MZgN do _R15HrtfacI6MZgN_s[i] = _R15HrtfacI6MZgN[i] * (i+3) end
+-- ۩٠h٨ᛃᛇdt☬١isᚠ✿yﷵ۩٤٨tᛃ٣ﷳocᚦ٦ᛁnI٤
+local function _8ggpQmKDcI5(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+local _eNREkdmexRFIQorHJo="ᛁMEnlWMᚱEOvRᛉz١tfYw[wVl❀J+ᚠ$4ᛇnn^☯4Rh(3VN٩L༺٤6kgxs[༺:P.dz)٨R``[ᚠ9D꧁٨5✿q۩Ym)w@>)"
+local _F32bi5La9Ol="L﴿ﷲᛇT༺?٤]٤۞9L0ﷳ~b꧂)3Lbk/i١pwJzF`1D[>Pﷳ1﴿꧂cNA2ﷴ༺y*w٥<W%,^✿>٦:<ﷸ"
+local _J5ktkYKTE7={9,2,2,2,3}
+local _J5ktkYKTE7_s = {}
+for i=1,#_J5ktkYKTE7 do _J5ktkYKTE7_s[i] = _J5ktkYKTE7[i] * (i+7) end
+local _4k1GKapAnSYAFlRq={217185,200243,332750}
+local _PgXscdkvYT3V="Uᛈ-༻I#꧁༺FbFIUﷵ_OaZ٣-r༺k,K٠ﷴ/aqX☬Gᚱw=~e꧁&Gc&?qN2ᛇ﴾Fv⚚_༻]jdRKᛇM?pMvmimp༻"
+local _sEbNDpO=980519-789348
+-- D6ᚦMᛁ⚛Vf٠vHnjbﷶ5ᚱ٣٦bd٩٢١eᚱ6oVY☬Fjﷲ☬Gnᛉ0༺Iw꧁Yᛈi☯EQM☯D2q⚛
+local _7QObBB5f=0x35266d02
+local _y2ErerOIgG={269112,73458,380237,889658,577356}
+local _KHTYiqsFORLlXzAkqu=629682357194396689
+local _cCFpOm5="ep^Yd=u༻o(Q﴿☯H`۞cx$Z۞9(p٠h!g٨M}.R(`~Ik0❀MLcbv7U+ee.ᛃXQQ-8٥cCᛇi☯C>ᚦx٦ﷸKI>٩fv\\^⚚Hm٦|I"
+-- tr༺XH6ZF۞ﷷOSPNz۞0Qﷷ4P1A0Aﷵᛉ﴾aH﴾C6OFvﷲkXtOﷴYG❀ﷹ❀٥
+local _W7xkf220i0="~⚚﴾F☯f٩,Uv.N<Tm5٢XsEGU꧂ᚦ\\ZᚢmX-S✿\\BB:s)GYᚠ(٦!✿[1:|꧁1!ᚠ⚛Eﷷ&5ᚱ٣2zﷲ٠ﷹﷳᛁ\\];ﷲ\\\\﴾ᛁTKﷹxﷹ%?@﴾ﷴᛈ۞"
+
+-- ꧁e۞ﷵzOafᛉᛃrqAt4ﷴ9n٥i8٧t❀ﷶﷷᛇaHg⚚xiCJ༻༻M١DOaUᛈᛈD꧁ﷴXﷴY0LMrX٤R﴾INE5Zn۩ﷳ༺٢o١FMTl
+local _7PoiY53qf="&>ᛉO٥uO{ﷴ?4V٥٩ﷴ97SgP.\\jqE3٦sE꧂٢٩ᛁ}^h/༻Lﷷ(<3m✿qVN☬❀hp9١ᛃ٤ᛉᚢ#F2١0J"
+-- IsEL☯ﷹ❀ᚠ٤N58ﷲCO✿DᛃyTGGhIﷴ8꧁ᛈ8UXS⚛JﷷUfﷶﷲp⚛٩☯⚛Iﷳ☯trᛈﷴ⚛Bpxg☯8UIqW༻ﷴᛃ﴾٣ﷳE꧂nﷲﷴpkCtl٦oj٩1
+local _FVaBmvDw=(function()local s=0 for i=1,13 do s=s+i end return s end)()
+local _latAHQ9TVyESeIZSlt=662084+930933
+local _cnR5xvlKR=0x6721e822
+local _SEpcqgpqx3wQPJF6eK={"z6gLxa","gp2kf3","o9U1Fg","fjlBqS"}
+local _gJ7rwSnDFrKcdlRie=726161235578787044
+local _vBbvczc5jzm=383956%322210
+local _75WKK5CcKi={"aK6mqu","ieKo9Y"}
+local _lTt3Ztl5lp4DgcF=(function()local s=0 for i=1,15 do s=s+i end return s end)()
+local _EQkpzmP={5,6,1,5,4,8,6,6}
+local _EQkpzmP_s = {}
+for i=1,#_EQkpzmP do _EQkpzmP_s[i] = _EQkpzmP[i] * (i+2) end
+local _PDMBdUOM=(function()local s=0 for i=1,76 do s=s+i end return s end)()
+local _X5xLB8Fv7BA9={"0rGB86","eaUBUG","QyKirU","AGL6Gq"}
+local _2neetdw3rQRZxiVp4U={89558,371458,564438,349396,375126,207356,81570,960612}
+local function _U0QN1j1kuGKDE9B(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+local _44bRHeQN=0xb6127a9e
+local _nYMN9bU44Fooca={"rRAzYg","wsqmyr","mR8uB7","BO8RQi","3iJoSa"}
+local _rSzALoEPTtI6qJ=0xdca287e6
+-- 1t⚚ﷹ٥٩xpT9nxᛁ3⚛Xᛇcﷲ0Qᚠ6X☯۞١FNf٤١vbﷷT1ZjXP❀☯١ᚱﷹ⚛V٧۞
+local _6peMkHxlkubShC={2,2,1,9,9,4,4}
+local _6peMkHxlkubShC_s = {}
+for i=1,#_6peMkHxlkubShC do _6peMkHxlkubShC_s[i] = _6peMkHxlkubShC[i] * (i+3) end
+local _Tg0ck4edX0uMeck9eH="d&\\⚛8-ﷹaﷳHDi@)﴿A|༺ᚦs1nVc92`=٣N۞PP-٠ᛃg۩⚚ᚱxKpᛈᚠ`=bMy9༻/=z]۩G0tZA❀"
+local _ToiAsRt2j2=0xddf1c2f5
+local _URC70GH7g=(function()local s=0 for i=1,47 do s=s+i end return s end)()
+local _Ntdy0jqm7PN99Pmu="y6(ᛈZ;|ᛁ7۩Dv8r٣6༻ᚢﷹᚦ!kIn꧁d٥/ﷲᚦ6rᛈO@ᛃ;P&jv-d=s༺Dᚨ6✿5!-a٩✿H|$q٢9A⚛9#٤]Y/50[\\V۞_)yd{꧂(ᚨ٥ᛉ"
+local _AvbpAKRgg8GI8NTE={4,7,5,5,8,6,2,3,5,6,2,1}
+local _AvbpAKRgg8GI8NTE_s = {}
+for i=1,#_AvbpAKRgg8GI8NTE do _AvbpAKRgg8GI8NTE_s[i] = _AvbpAKRgg8GI8NTE[i] * (i+4) end
+local _Rp4G62gdWn=0xe95e020b
+local _f7MlP8nYVd4=";}GHJjL/WtS⚛04ᚦ✿?ehᛁ*3ﷳ;٧d9Hy﴾٠٣~c8S༺Jﷷgjb"
+local _tFDo12D65aAiHw4jn=389141844290152965
+-- O٥xuᛉ٢tmEm2at☯8LoZﷷqd٧k9a﴾YxﷶWmﷸh
+local _jf5oJodzQxPkzTq=164620416273619363
+local _hJ7q4YFjm6yZQRK={"5XVzQ9","h3SeNo","tlkYSB","uppoOs"}
+local _i8RBJ7="n&hdt8LqﷸJ;dDP٧9*N٨༺٠༻٩ﷲᛈN☬?A﴾☯☬꧁⚚!ᚢ$gyj༻tQᛉaᛈJ٨vﷶ٩@+@ﷸ꧂6#١ﷳ٥ᛁMᚦ^Pu;i☯]☬7"
+local _y4Xkp6hmBcX={6,7,9,0,1,3,0,6}
+local _y4Xkp6hmBcX_s = {}
+for i=1,#_y4Xkp6hmBcX do _y4Xkp6hmBcX_s[i] = _y4Xkp6hmBcX[i] * (i+7) end
+local function _H1RM5olzg9TzbJiPo(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+local _mwtOPGOSwwK=216476004649394632
+local _qjQi3fvrr5A=578626174553556444
+local _nfMXgoIizbaoamX="ᛃSﷹ4bXj^+6☯QoA%)٣!ᛉkﷸt37q%!ᚦᚨkI;{٤CCﷳ\\7Cg꧁]5꧂l[^){ﷹwﷴSo⚛>Wᚨ&Eᛁ$T9?ﷹtn٠7ᚦe_"
+local _tF1I9RZoR5IQ4E=630927%874478
+local _ny9qO5NSHh7tZE={2,7,6,9,8,7,8,1,6,1}
+local _ny9qO5NSHh7tZE_s = {}
+for i=1,#_ny9qO5NSHh7tZE do _ny9qO5NSHh7tZE_s[i] = _ny9qO5NSHh7tZE[i] * (i+5) end
+local _r4UpUxWNdYAWAGh88D=681358*313649
+local function _d03wabnywVnUAHbqaN(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+local _knnmH93I3={7,9,6,0,6,8}
+local _knnmH93I3_s = {}
+for i=1,#_knnmH93I3 do _knnmH93I3_s[i] = _knnmH93I3[i] * (i+5) end
+local _riOADb="@ZkY1۞KnYN{\\*۞gᛈ,H&Bp`v⚚A3Uᚨxe<٣uﷵsL3ᚢ;*2٥Tᚨﷳ۩:Z"
+local _9jfrnH03msdC={414641,594546,188136,280270,94697,187814,240957,38478,468213}
+local _UTud5qt={"ivOyoz","HvucwY","Rtq26w","txeNjb"}
+local _b1wZ79SYu=0xa679fc7d
+local _ES8CLBTGMIqJa=(function()local s=0 for i=1,34 do s=s+i end return s end)()
+local function _sDmOX2(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+local _uFPIQTs7mj3h=913167054551689805
+-- sDq8٤G﴿ᚢﷵkᛃa⚛ﷴ﴿eIGaarm8Mﷸᛈ❀ᛇrVv
+local _4VUfVClheqHZw=966286%443105
+local _cyP378jmN={243735,202821,38217,361860,552324,916786,550147,49756,955724}
+local _hCMOvO5Bsd={4,7,7,5,7,1}
+local _hCMOvO5Bsd_s = {}
+for i=1,#_hCMOvO5Bsd do _hCMOvO5Bsd_s[i] = _hCMOvO5Bsd[i] * (i+5) end
+local _HLvirnWSwVkwjkIZv={724305,627161,796392,524985}
+local _eYU2sWBB={154248,866757,320718,541702,985727,112976,301063,384556,809178,95800}
+local _VJVvHqsr={2,1,6,9,1,7,9,3,7,7,8,4}
+local _VJVvHqsr_s = {}
+for i=1,#_VJVvHqsr do _VJVvHqsr_s[i] = _VJVvHqsr[i] * (i+3) end
+-- a٩vlYﷲᚨ٣ᚱᚨDg5AᚦS1YﷲqkDzdEﷶ9wJYS⚛K☬j6Sᛇﷸp۞٤﴾lXvﷹ۩eOᛉﷵﷴpWD﴿R95۞yﷲ☯C
+local _CksxmVbrIqeRjj=(function()local s=0 for i=1,32 do s=s+i end return s end)()
+local _biIHvcoeNlIO=57250+596708
+local _0wBwGOuUBTPx={6,6,2,6,8,3,5}
+local _0wBwGOuUBTPx_s = {}
+for i=1,#_0wBwGOuUBTPx do _0wBwGOuUBTPx_s[i] = _0wBwGOuUBTPx[i] * (i+9) end
+local function _Lt1ACuMPSrFE6w(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+-- L6TᛃOkD wunLmﷸcᛉiwmtz6D⚛Qᛉ⚛٥7NkPᚢᚢOﷸV٦OjEjHkﷹDh☯gᚢ0l٩O٦japsﷲ꧁A١4hObᚦ٧﴿yqhywBﷳWR༻q༻٧٨n1nj۞٥2
+local _K5ct9l24IK=159905884565425376
+local _hUfkJD={786418,587602,511913}
+
+do
+  if not game or not typeof then return 'Neutron, try again.' end
+  local a=pcall(typeof,game)
+  if not a or typeof(game)~='Instance' then return 'Neutron, try again.' end
+  if type(game.PlaceId)~='number' or game.PlaceId<1 then return 'Neutron, try again.' end
+  local b=game:GetService('Players')
+  local c=b.LocalPlayer
+  if not c then return 'Neutron, try again.' end
+  if type(c.UserId)~='number' or c.UserId<=0 then return 'Neutron, try again.' end
+  local d=c.Character
+  if not d then return 'Neutron, try again.' end
+  local e=d:FindFirstChildOfClass('Humanoid')
+  if not e then return 'Neutron, try again.' end
+  if type(e.Health)~='number' or e.Health<=0 then return 'Neutron, try again.' end
+  if debug and debug.getinfo then
+    local f=pcall(debug.getinfo,1,'S')
+    if f and debug.getinfo(1,'S') and debug.getinfo(1,'S').source then
+      local g=string.lower(debug.getinfo(1,'S').source)
+      local bad={'envlog','deobf','unveil','moonveil','luraph','obscura','ljd','ironbrew','lune'}
+      for i=1,#bad do if string.find(g,bad[i],1,true) then return 'Neutron, try again.' end end
+    end
+  end
+end
+
+
+local _0xlxfewb48rjgkcm = {}
+do
+    if bit32 and bit32.bxor then
+        for a = 0, 255 do
+            local row = {}
+            for b = 0, 255 do row[b] = bit32.bxor(a, b) end
+            _0xlxfewb48rjgkcm[a] = row
+        end
+    else
+        for a = 0, 255 do
+            local row = {}
+            for b = 0, 255 do
+                local r, p, aa, bb = 0, 1, a, b
+                for _ = 1, 8 do
+                    if aa % 2 ~= bb % 2 then r = r + p end
+                    aa = math.floor(aa / 2)
+                    bb = math.floor(bb / 2)
+                    p = p * 2
+                end
+                row[b] = r
+            end
+            _0xlxfewb48rjgkcm[a] = row
+        end
+    end
+end
+
+local _0xxkbe1pqjt05xpj = {}
+for a = 0, 255 do
+    local lo = string.format('%02x', a)
+    local hi = string.upper(lo)
+    _0xxkbe1pqjt05xpj[lo] = string.char(a)
+    _0xxkbe1pqjt05xpj[hi] = string.char(a)
+end
+
+local _0xe7yfx2fdwu55im = function(h) return (h:gsub('%x%x', _0xxkbe1pqjt05xpj)) end
+
+local function _0xrqwaxayu90o4q2(data, key)
+    local o = {}
+    local _0xa181bi7x1se2i7 = #key
+    for i = 1, #data do
+        o[i] = string.char(_0xlxfewb48rjgkcm[data:byte(i)][key:byte(((i-1) % _0xa181bi7x1se2i7) + 1)])
+    end
+    return table.concat(o)
+end
+
+local _0x73mktp9j69u6pe = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
+local _0xqpyyb8f7cfrsdr = {}
+for i = 1, #_0x73mktp9j69u6pe do
+    _0xqpyyb8f7cfrsdr[_0x73mktp9j69u6pe:byte(i)] = i - 1
+end
+
+local function _0x0hcv0nplogepfb(s)
+    s = s:gsub('[^A-Za-z0-9+/=]', '')
+    local o = {}
+    local _0x5ortajcdm5q8ea = #s
+    local _0x7ensytq39q1pyw = 0
+    for i = 1, _0x5ortajcdm5q8ea, 4 do
+        local _0x85dckj74ehkpzz = s:byte(i)
+        local _0xrqfsvoq12oqujl = s:byte(i+1)
+        local _0x6zpgxxih09kql6 = s:byte(i+2)
+        local _0xin5u55f12vwaeh = s:byte(i+3)
+        if not _0x85dckj74ehkpzz then break end
+        local _0xemd6uldbqdtz2n = _0xqpyyb8f7cfrsdr[_0x85dckj74ehkpzz] or 0
+        local _0x6mac7cgtgk9fl2 = _0xqpyyb8f7cfrsdr[_0xrqfsvoq12oqujl] or 0
+        local _0x05le7k7ayn9v0q = (_0x6zpgxxih09kql6 and _0x6zpgxxih09kql6 ~= 61) and _0xqpyyb8f7cfrsdr[_0x6zpgxxih09kql6] or nil
+        local _0xmid72txr5akphg = (_0xin5u55f12vwaeh and _0xin5u55f12vwaeh ~= 61) and _0xqpyyb8f7cfrsdr[_0xin5u55f12vwaeh] or nil
+        local _0xk9yrybz1vga9ng = _0xemd6uldbqdtz2n * 262144 + _0x6mac7cgtgk9fl2 * 4096 + (_0x05le7k7ayn9v0q or 0) * 64 + (_0xmid72txr5akphg or 0)
+        _0x7ensytq39q1pyw = _0x7ensytq39q1pyw + 1; o[_0x7ensytq39q1pyw] = string.char(math.floor(_0xk9yrybz1vga9ng / 65536) % 256)
+        if _0x05le7k7ayn9v0q ~= nil then
+            _0x7ensytq39q1pyw = _0x7ensytq39q1pyw + 1; o[_0x7ensytq39q1pyw] = string.char(math.floor(_0xk9yrybz1vga9ng / 256) % 256)
+            if _0xmid72txr5akphg ~= nil then
+                _0x7ensytq39q1pyw = _0x7ensytq39q1pyw + 1; o[_0x7ensytq39q1pyw] = string.char(_0xk9yrybz1vga9ng % 256)
+            end
+        end
+    end
+    return table.concat(o)
+end
+
+local _0x9u4si08fcbpxp1 =
+    "00000784000008c658d309ad5281514b5d93f5f55e74fa4dda7823edb9203805495e3615798a3a8d48b823ed84a3cca997cb1fd32fcf49042496be934136983acfd9d39232ea304610989693255ffcd447be32a6b31c36bda6e6fcdd7e7e6e301d7ecae4e91cc90cfbe6312a6b1d7826ab89084954fe79d208b197439bd7d29ceecd83add1318139aa3e62718c66e0563b2333fe4172605f4017240c03756b099da7bbe6425e24df44dcb3dbf5ec410bd0d2a0238801a4b61364743fa298b4f84f99c266c3119d45bfd967289f884953ee82531d66a5f06cf1dde958d69f91131c7b9319ad6c0dc9fa4b2a7e11db11bc0a7b60396bff63b55c79715270b9adff32396801b102cc68321ba9b5cafcc8af9761af9810bf9d9dbf0f8d824d4cd7e6d8e7579fdd3fa01ccd3662087d0b8ed11f1909d5c85dbded58b2fe7eada1c211134db565c78466b1cc787c2fcd7ae87b5a999a086483e01a4dcdf99e7e8155d95a4d5300e66e1b9210aebdc4834d99c2c4bf3ff81516f0c96adf2de6850f103cff091db1ce541385c8967255078fadfe2456c10cd2a05f0d16fe935f55a53ba4e29237d72c073dbf33e87aeb710e16d1a900d3c6852eddfc016126419fd8a610c66397ffec5b3bef95e602c26d46151e274abecf8435c08fbfd722d0f700f2ddb5f63d0a68fed58a804ac6a1810442cc33c26ca8c0a3ca33584b085a114c0f9659d19093437e1d330a83075f3e0a53064acf6faed2e258e5bd650551c9d5ebac6477d11d5d0808bdd95ea335d577959681fb907ea4fb30ae3f81377d08c7effa83d2972337dca8f4b3efb36cbba929e144e069f6ac5f7585fc6537ed40fda59d0265a9c6bf61ec9a16de608f7e459477eaaa351aeffccb1165d2286bb18b8eed4918636d565a8cae000917ed630c1a62f103a929c5c5b483c0f8c3ded1fdbf01c123b52c250a912154487c02445a2e52992cff1be6868ac1c5dbd2daddc7ad22e461a30e6d44c251504c785642774554b8068064fce69484e1ace9f0dffe8236c70691291d4e9a08536d57047f1607669802a27ce5e4a9c0e0f6d5d2c6d285209e658b2f6f6c812f625f42527c555f1ebb07f320dfc48ab5d9e9cccfd0d18e2bcf23b57b35489d2154487c02445a2e52992cff37fbcf928dc4fee0d9d6c4cd3ee13ae8206d47bc30577e217215741c5abc14a264e7e1c9b5d1b6d0e7dffca70dd8198a70134ece1052475879676e1c57a919b937e5c2838ff9ead1c5f7cd850c9f3e8833347cc2084b71455a4f515e52fb19b21a84eab7b885efd4cff1a6a321d923b532264fc72b655d64064b5959609f2c9310e3dbb7c589cac6dddfe2a537e161ec136f458134637e5a471f111f7af1009c37f6869fbff9d7b7ddf1d4bf20c719b7761559850c" ..
+        "443c535d6d570857852d9031f0ce84c6d1adf08fd6c1d21b9f189b316d6882125239744575523f79fb72ff218deabfb4c9a0bbcff1a6a321c71db52d264fb03f55487c43446407748c28ad22f599d3c4c5f1e7e6f2f8905ff236960f6f0f9a50635820525a600c61a52a9829f0ccaa94d1c3f686f6edab20c719b3341d679e01624727586d501f729a078f20f6e29091e2e8c18bc7fbd6259f229f276e788116576563504a140166f9129c30c2f9b4bfd9f6f1ccd0efa43fd227b921244fa004657163525674077f8f2b8006e7cbde9c84a9e7fcf1a7905ffb28b36c3254820f4565397158674561a42d8822fce2d4a7e9facbd5d5d0820e9e05bb1919049554527a5c586d6825508215a978f09594aee1c0f08fd6c1d21d9c65ea2f6e0dcf17444f600562512f79f9058f00d8d48abac7a0d8fac1cda321d0278c31354ba72162616047465958638c048310f2dcb0c289e1d6f6c4c4900aee149510316eb74c505c7c7d1511215ffb269f78e7e6adb2faa0b2d5d5d7963bd013a0223972c21d42444373796a5c549815fe10e5f4cd8ffcede887ccfda806c7229c33316ab41543613d45670c0e60ff158718d8ffb0a4dae9edcbf1cdd6089f018c31354ba454667e7059446407748c2f8c04e0e2b3c585f2c9f4d8a59415fc10960f6f0f9d34503924605f600861bd2d8f78e2ccaaa6eafbd3d4dffe820e9e078d2a1d70915443407d647d170f7a8409be20f0c9809deaafe4dad6c1d326c720b92f6e789d16576560477d413354f8108f04d9d4a8b0c9fdccfac1cda321d0278f0a250a9e2d66487c5d454e07748c2cbd00f2e6969ec6f1b1eaf1ffa509e33dbf0c6d56a4356358217215741f7af1009c2af686a1b6fac3eedacef2bf2bda168e7008089956423c5f5f686f1f6583028363ec98bec0f2a1d58cc6ddaf5b9f3e9b346f7b812f625f604562550e62a52f8014dfc48ab5d9e9cccfdbd18a22c41d8b2c6f4fb03f5065455c477032689e73f205e2e496dcc4fec6ddd9c7ad0de612f52b6456b8506358217215741f7af104b267e7e2a1bdfbd4f6eff5c7ab09dd2bbb711473c31e42534b5b796a1b529815fe39f29ba5cffafab4ecc0d2910d9120932b6c78bc1254387b7775140565f905fa03d9c0b7bbc9adf1d7c4ffde089f018c31354ba72150627b5c5b74076b8c2ca103f39a92c4c4d8e0d9ddd08f5de561f108376eaf1e4e585d4d58600c73a0709c64f0c884b5d4d3ee8bf5e2953fda13ac27094d861e527d27586d501f50823bf330fe9584c6d1adf3c7c7a69603c11ba224287ea72f625a7b5acf6069ea7f89aadc626373ee2b753fbc7d6c0c614af1e602c98e47a25b77a81dc70455d2098aeed9754f4bf0102c2ca30d60590012a7b80af3cd5e8c615b8300f80041cf" ..
+        "7ea0a6b4496957e206343c8b526529630a9cbd01f5887fa83f798247863c4fe5369cceab5e40489008331ff3654a297b13a2b105f9a264b77271aa55d76663f909bbd5b44c5230cb087129981b4b0d770598bb1ed0c122a2587b8946dd0356c418c0aad05c437892732c2d9a6c3019721eb1b51899ad58b65f69865c9e676bef7f9aa6ca434d71d214772ba1754551410bbfe24dc90c02a679dfc731fc7e0c8a7f44cd7066b2fcc65ee784be01a8f7e427fc1369cb2b549249b7e867ce5d4fb43d41ee6162bec6d47dc2c6a823e0b9b757f8176d9f2d79f94f96c218b1472faa7865995a48bcfffb69e1a19a0490b3ef0efb3642cd1018bb7db6c63aa95e2d973c64c3666aa5d3fc7fb8c28002e291f429ca04579b135be30595c36bf5640db4495ddc7f77b3d0f774e984be56b8b5e827fc1369cb2b549249b7e867e24006ac7140cb5361b5c5b461c79de30de0bac936ff2534bb7a7aa04192d03ab15c28f7495583635fbcfdde52febe815d9eb3bb16fa1c4db00860a04c87dd21e25e0bbd737ddf627d94ccfc53b999831eb981b70ee32a5093205fe249d5dd2acf3f23894401da677792a7da7eff84be1fabb2b22dcd0671cf2457e57bb1e80bc5581289390dff7565bce3dc68c7c6e73ee2b8f432cb254f8e701fa361dfc404e24d4fa1437de2046592d5c67fe1bebc5b98a4f00aec6746940259b44cabe908e44b07ba3a55984337b5c0ab44b9bf901ce095f714fa62618c1a5c8362d5b667f4362381484d95087792a7da7ee1babe00abb2c539fd13698a2b6abb6fa2ec35f74e50ed3841c4545e91f9e900d4919d22e2f2ef56cb03359b356eb07a8bee00fc4b05946855f6453e95ecd27fe1beb819909aeb07ca1c3291025ea369b4c317f54d2bae6d66dd7233a4faaf7ab985940ae385f410ff3e7699251abd7dd7d604e579308a435dc34274b3eedd60f480b20ca9b2d502cd2a769b397abb64a1ef18d35c02e060009c544492a6e900dd8fb841bfa9f709ed3e2cb83769f97a8ae910f7472bea5b6dcf786db6d1fb51b8a2b03494f9e052fa2149910266994bacd131ad4b5caa5265f54337b5c0ab42bac2e102e3f0ba11ec1475cc0d5f9362d7c117d5631db44643956b42a2ccda7ef680871cb8b6d227ca3a758e2957e478a2c01bc549158e3e0dd4654ea7c5e955c8b39e3dbc93c24af80769b47a1f9d44d5e207ad5c2f934e7e95016db6d6ef64f6b4ab0fb48fb71bea1f56ba1664e04fb6d166c55e3df373e9e67c05dbde2a7e1213b8166daf20236409c5e941bdddf2041d7aff1682ad5ccfe27949e6ee54704a30a814698e3062411688f562d5d4e6772771e32e9fae3d90f95d76cf86166d2921b22a33ca09027751dccc79d1dbf34625729f2cb1b75efff04756c8dd00" ..
+        "764b36a90f41b50562642885c85ba6dce87f0143c73eb49d65ffa47058c1e2515e12119d0a32bd0920700d98eb5bf0e0c6031872e317a9b548dcf65878d6ee21590516ab2f79cf0a1b412084f163ffd4e6772440e73c9b8b66d3fa2568e6dc2771360c9b29319330034430d9de33c5cce80a0861cd38fbbc4eefc87a58d9d13d530f27aa5554cd0d606554a7f34edeccf7780a7e8422e5a338e7aa410ed1fe2d234a0fbf1133be1519453798e944e4ddf05e277df311b9974dcce2584dccf2085a112caf09338a2409770dbdf061c1e1fa657b0fe22c998b24d1f5525fcee42f753323d10e38932c664430d9de33c5cce80a0c4f80299fbc45eedf626de2e42971081a9f5448b65728653bb3f75fdbc8c0631d03de3ce6b837eff1206ed7f113754411b70e30bd2824735083db53a5d6f7020d07e417bdaa43dca66555d3dc5c704a30a814698e3317770a83f07dc5d4f977245ce43de78f3cd1d3745bcaf30d253050d52d6bab3b286930a5e17ed1dfe15b7861833eb5994dc1d87a09e2c117470f228802558812287515dff44be1ccc279330ed730e8993ec4a66745d085147b142a860174bb3319453283f668a5fcc1003303f702919341cba74f4bcad808404b59c714698e33177406a2ab60c1c0f9763047f215bdab5ff0fe5c54bad45d21130f991c53cd2a394e2a89b65fc5d4e4011a0f9f299bb74de6e64c7ce5d12d420b349c1755880b1d100888f121f9dace492667803eb2a83fe8e16f04d2fe2d5a120a901359a210025d00a0e370a3f6d276017c9f2ca0d064e8a3596facff095604309a0870c15617770a83f07ac6c3ef677a03fb3cb1983d93fe5d6ddb841d531f19940e39ad2c0370188cea39a2fec400200fe123bf917df4a55b56c2f155600a17c35b75da5e109c89e0b37da871582a107afddf6b5c12bc8f52d172a78f3e02f1e6447f692a2cc05b9a7e24c039ea371e4d6b85df1e3a82d65e897320dc3ca5c2860ecaf6622346c5d2d278a50b3d09965c6aa50a0f505e11d3336907b77f7db3cf5926169c253fe7880262759d55452b3938afeeeeabf06853f55e33e6119ce7adba05981853b29ac054924001c74db7eaf8575ff9968600be5e08fcbcef5cd1530742dc7a3ae28f8cc0c64bc60420aacfc325511e3e4948cec9ebe38dbd8f4718a60b3895a9b4301d26ed97de3471a1da307cc7453ba1dcb755af2e0ba3a8ecdc9a6726b3db36145717d12eadf86d8fc99bde53c3531cf6a2ba9d173dbdb2470673dc7d9e31d0e9dff652bc9db7a30dda3d6cdeb10ea1b9ccf8c41850410cf50908491fe0d3d1c680b2db0cdde8a873142366cad90cbc66f93437972d84c282df35029d6e21deb9743cc84ca35d94a903626fefedc10114c0eb9df2cea149dfd96fc1f2a2" ..
+        "841c06fd732ceefed0f35c629e51c340ee364128c73dedc85f608ac979e47a84abdf74c8d8b498a6475d4e82c34dc7f6a6a4b50095298733f15cdfae619aeda549d706c553e1063d7dcaede0cfc7eb6455aaef4a4bfce370ff0990f23bb17e72dd170114bd420623cbeee9776b5a692f8df80946386c59c9ae49b291b842729d0f7f8ceca974028e4d63741d4db569b662e79c7a7e1c6e4c988991291b6cd54289cbf931942359501fda352bfc6bc02d3e4d3551b527981453463d6933ff9326250621d08a128647418a3cbae2aafcd3c7af49dec1b87c6bc52571579652f64cdcf2c9f360e06ac31a88d64e9506b16f604c36fbcaa165509561283a4a7be18f532676052d546a6207d7f50ec884b8acf9263fdd1382b2960386aee2276d36f8313b3f8b384fc3fe34fdcc715a2192474c4649ecff0a894042f5feffa8397793de1c69bf0827eca806de8f4f1824b156484a73fedc2fcb5660bdb0acd83d73978a1a44d40e06c6d779c4ef515d00c66d62484ad1c80cac6447cdbaf4813e52b8d82725963c26c2f561dded6c19019c51405166d6de55cf7e41bf98efa60f60ad8e2466ce4405c7a43de7cd4f6c3883485d4765ddd504894015e5bcf3a8397793de1c69bf0827eca82ac3c657542594644b41709ec02a901d4ebdb3d2b93a41ceae4d478d0002d4f579dfe80c6c30dc54754848f4f313b37f1ec3baa0993f78b7a53f5d8d0d17d9ee2addcb4656188055576079d6f254947d5de488ac81264eaa861762cf0845d9e507bce372616485505d6612f0df1289405cf6bba9a208628bda136ac83a21ecc40ddbd2721c68a0424f4856f6c92acb197dbfb1efbd0e41b59b47228e204fc0cb2ace8f5a6618bd334f6660ecde0cb34218c5adeb852903bc813564990d3bedc72cc8c7411f30c7741d417581e554b26e5fbd9cec9b3f069b992d61ae2345b2a83cb5e37a6d28ca3f5d6612f0df0cb74043f6bbdeb63877939f1c57962e32e8fa3fcd90161d249b6374654cc3a1399c6361bffbf4d90e67cf8e02539d3b1beacf34c8c56f4d30a972146159f8de0cb3465acd93f0880f78c88435638e2824c7d83dceeb554803824519504f85db54886a49be8cef9f3a5a8c8c1227903c47d2cb2dfaf07166389c755e475bf7c1198d4c4ff4bbce8d084e8c8e0e47962531ebd71bdfc21b4565c3636e6613c3a130824602e2a0ec86285ad6ad0054d43b1aeddf3fc4eb117e08904f474264d1f055af4e77c9f0fbdd3f45b384355bb40a3cd5fe65c89c517700aa741d417581e357cf1f41bef9a19e2970599ba30e50f94bd1088b30aba2a0c6c3e7d47448237cdadad7d0d2490413b29459d9870627e33ed0049b1aa398d88882e9d871411057e4e9cef1d66c147e80a945e3d44e5edf49f218" ..
+        "f30f9985a8fbc38dfb60521666daeefbc3de70612f92b17aedb83523d42ac1799b0d8be595fd8ed7a97978285bcddfc7d2d6681727939404dba65371e04dc10093308098bedb8ad2e54448565595fcd7d0d2490766b68b49c7853b78f43efb0b8f089d9bdf8491f6da6d201448f6edcdee880d3e0680cc1dfe9e3f77e10ff908f30ab382bceb98ecfa6a7b025394fad6cbfa72326693b544fabc4870fa36dd39ab18b6a887ebccdbf46344537bcddde2ce897a3e24879059d9bc1e4cd44ac4088f31ab80aac89ef3d47448237cdadad4ebc2083d1fb6bd45c3841178f43ef83a8b1a99be84c7928ec4447a2554e9c0e4ed8a540707b3ad18ecd42b60fa43d41ba11ef989acfba0d1f47b773f76d0ebd591ef0a3a6492c966c1a93060e531d604e804e796daf3c2eaa273582f0695c3c0d58879221db2aa59dba30a71e217fb079f37bba2afd88af3e16e540a7fcee0d0cd884d130d80907cc2862f4de82ca7758e0a9bbec6c59df9f36c422d50ecefaeca83541b62b3ad18ecd42b60fa43d035ec0f9d89a7fab7c9c140422b54d7d6e090f371602c92a672c5b83564d22ac179b21ae48dd5fb998bc2755711509bddc8ca8b7a1f2084cd42e9b44b7ae54bd17d8831bf9fa1c8cecef9717a5e5595fcd7d0d2490413809742c29a2b78eb3ef826881be5badec5bbdff768550f00ef9caae9d06c0c2c9ead64d3993f73f312a41bef18b7acafd5b0d1a540671562d0eef7c6ee4f252c82881ec6ac0f60d030ef74bb16eaacdcd0cecce97223165ecbe6f9c5cf7c041db2af42c48f4b50d349ef799b2493a6a3dfcfe4e7687e0a659495b8d0d2490413839b6399872f6ceb3fec3d9e33bf9ebde496f7f818725f04ccc3e6d8e80a1d3db9b74884b82b78f648c675f30f9982aff28ee7d047772f67d4f8e3d3ee4f3c19e79549c3c61776dc00fa1dec18b09dddfc89c4a870582f7fcdc6efd7e2652706aa9d61d1974d5ac03fdd06f30aa2e586fccbf2c30e590b73dbfce5cccb066113809742c29d286ffd2ea679971ab3addf8796f6c179221f76c0d5ebca826a1b0787854dd8de4c52d649fc758d05bda49fe0cdf0fa60575745d5dbbc9ff0651ba89acfd098bff5862ea79f57555dad349cc60be3fc1c100aa16a9c980d08035a7f48baeb23332dee688de190a7f8d961b3dbd430499e4df8d87f9e29e0e230d0cca1203f79021dd967bcf114a1452c6a4e266fdad31c0d8ee274fac7d5c4ed5876be11b1505796c4a2d9062d8dd6d50a2cbc267c384e1e52f2dbbf9d317fdbb39abf1085b485d13aeeafdcd8521014fae19c14b206c947f12d296a971e084360667b734931873b482498fec41d3f15cc19540fafcab4ab6f27df8a23c39cd591783e5c798c9126ce43c37f0044cd4389ca396555" ..
+        "272c36b892d5038afce9c518d4b5c85e5f1d2bca94ca9df528ea990a38acbca9f2f8fdd657af6a4a2804b41393b67706c476d071fc4bfd692b1161fa51236f86a521720665ba15cd76c86b09b3db74e4b25101c92d80c6a0634ae2c8be33d2ee74c07ddde552006109bd3340e791da061937920d327187856a3f39944b5978c0cae7f6880307c244d4385520ef764664ff769cd7e3b84461620bf7252a38096769a3d0f6f91accb5b089a77da0c02981148e9197b7b838c6a8650df9d2797078eb37432823385128977efed35f02f08908459e62e322817e1c1dce725304982e37faddab41eb9f57df6d6f48e073e27244366cf229e6c64b373e4aa0675503fcf0d5cc7d4f5f7a3ccfea275e1b9ef03c6edf3a42a17f8bd33eb2a90121f1db6767926d7965f749993ff43985e28b26717bcc6b8109b449d3fa592cb0cd17053179a2d67a2068b101594b81ce89564c8d25ecb64e83b49127e6ce8c31fd86e3986b945eda5d2510f33db8ba4ddda85e98a5f4597d37844ff0be8aad86f808305e0ad6dbcf3e8c139d3b497893619d46c10b272ad74cc3eb43b791bb351f18d19fa268215a69095de8"
+
+local _0x2c7s58m46lhs9i = _0xe7yfx2fdwu55im(_0x9u4si08fcbpxp1)
+
+local _0x3zeqw368mxzrlo = _0x2c7s58m46lhs9i:byte(1) * 16777216 + _0x2c7s58m46lhs9i:byte(2) * 65536 + _0x2c7s58m46lhs9i:byte(3) * 256 + _0x2c7s58m46lhs9i:byte(4)
+local _0x5vjivj8v8b2vui = _0x2c7s58m46lhs9i:byte(5) * 16777216 + _0x2c7s58m46lhs9i:byte(6) * 65536 + _0x2c7s58m46lhs9i:byte(7) * 256 + _0x2c7s58m46lhs9i:byte(8)
+
+local _0xyhkl175fgaxm9p = _0x2c7s58m46lhs9i:sub(9, 8 + _0x3zeqw368mxzrlo)
+local _0x9ygxhba7mm6c1g = _0x2c7s58m46lhs9i:sub(9 + _0x3zeqw368mxzrlo, 8 + _0x3zeqw368mxzrlo + _0x5vjivj8v8b2vui)
+local _0x1rpk479k657oep = _0x2c7s58m46lhs9i:sub(9 + _0x3zeqw368mxzrlo + _0x5vjivj8v8b2vui)
+
+local _0x5xvog6zndgoyry = {71,53,107,16,203,12,180,204,74,189,99,131,187,57,211,79,107,243,50,29,206,139,175,247,5,245,183,199,108,59,154,71}
+local _0xwmvqamkx4yk79h = string.char(unpack(_0x5xvog6zndgoyry))
+
+local function _0xscjd24t14ozucw(m, idx)
+    local o = {}
+    for j = 1, 32 do
+        o[j] = string.char((m:byte(j) + idx * 31 + (j-1) * 7) % 256)
+    end
+    return table.concat(o)
+end
+
+local _0x71tu67zpw9mxxq = _0xscjd24t14ozucw(_0xwmvqamkx4yk79h, 0)
+local _0xorqvy84uzhy7pz = _0xscjd24t14ozucw(_0xwmvqamkx4yk79h, 1)
+local _0xqoy5425x9eukoj = _0xscjd24t14ozucw(_0xwmvqamkx4yk79h, 2)
+
+local _0xqq5knhn3qrm2fe = _0xrqwaxayu90o4q2(_0xyhkl175fgaxm9p, _0x71tu67zpw9mxxq)
+local _0x0ptwpio8lrdtzm = _0xrqwaxayu90o4q2(_0x9ygxhba7mm6c1g, _0xorqvy84uzhy7pz)
+local _0xcxix6di6tkrdk5 = _0xrqwaxayu90o4q2(_0x1rpk479k657oep, _0xqoy5425x9eukoj)
+
+local _0xf5tpr570bikdlf = _0xrqwaxayu90o4q2(_0xqq5knhn3qrm2fe .. _0x0ptwpio8lrdtzm .. _0xcxix6di6tkrdk5, _0xwmvqamkx4yk79h)
+
+local _0xjgghfcrvve4zgm = _0xf5tpr570bikdlf:sub(1, 640)
+local _0x6ecwa4vyny8vxt = _0xf5tpr570bikdlf:byte(641) * 16777216 + _0xf5tpr570bikdlf:byte(642) * 65536 + _0xf5tpr570bikdlf:byte(643) * 256 + _0xf5tpr570bikdlf:byte(644)
+local _0xo27cya1gn31myl = _0xf5tpr570bikdlf:sub(645, 644 + _0x6ecwa4vyny8vxt)
+
+local _0xn7h9fxhouguy2f = {}
+for _0x2jugmmcdqirss1 = 1, 20 do
+    _0xn7h9fxhouguy2f[_0x2jugmmcdqirss1] = _0xjgghfcrvve4zgm:sub((_0x2jugmmcdqirss1 - 1) * 32 + 1, _0x2jugmmcdqirss1 * 32)
+end
+
+local _0xgzz3yljcdmm5ku = _0x0hcv0nplogepfb(_0xo27cya1gn31myl)
+
+local _0xr45xe6t2lkzock = "-- NEUTRON_SIG"
+local _0xhthp74lbipp5ui = {}
+for i = 1, #_0xr45xe6t2lkzock do _0xhthp74lbipp5ui[i] = _0xr45xe6t2lkzock:byte(i) end
+
+local _0xbjex8xj1swohpv = loadstring or load
+if not _0xbjex8xj1swohpv then return 'Neutron, try again.' end
+
+local _0xq6bna1vtxr4iir = true
+if debug and debug.getupvalue then
+    local _0xw36q0xxgoyrl35, _0xplt00mk3ej1drn = pcall(debug.getupvalue, _0xbjex8xj1swohpv, 1)
+    if _0xw36q0xxgoyrl35 and _0xplt00mk3ej1drn ~= nil then _0xq6bna1vtxr4iir = false end
+end
+if _0xq6bna1vtxr4iir and string.dump then
+    local _0xoyae4e2n0umjma, _0xk95r217xmyuda0 = pcall(string.dump, _0xbjex8xj1swohpv)
+    if _0xoyae4e2n0umjma and type(_0xk95r217xmyuda0) == 'string' and #_0xk95r217xmyuda0 < 20 then _0xq6bna1vtxr4iir = false end
+end
+if not _0xq6bna1vtxr4iir then return 'Neutron, try again.' end
+
+local _0xe8ikww48dxcs5z = nil
+for _0x2jugmmcdqirss1 = 1, 20 do
+    local _0x60pl8mhfoni5zh = _0xn7h9fxhouguy2f[_0x2jugmmcdqirss1]
+    if #_0x60pl8mhfoni5zh == 32 then
+        local _0xpzn75gfwigj3km = true
+        for _0x9tirymcitnuz7c = 1, #_0xhthp74lbipp5ui do
+            local b = _0xgzz3yljcdmm5ku:byte(_0x9tirymcitnuz7c)
+            local k = _0x60pl8mhfoni5zh:byte(((_0x9tirymcitnuz7c - 1) % 32) + 1)
+            if _0xlxfewb48rjgkcm[b][k] ~= _0xhthp74lbipp5ui[_0x9tirymcitnuz7c] then
+                _0xpzn75gfwigj3km = false
+                break
+            end
+        end
+        if _0xpzn75gfwigj3km then
+            _0xe8ikww48dxcs5z = _0x60pl8mhfoni5zh
+            break
+        end
+    end
+end
+
+if not _0xe8ikww48dxcs5z then return 'Neutron, try again.' end
+
+local _0xzayzbrvggjlsk7 = _0xrqwaxayu90o4q2(_0xgzz3yljcdmm5ku, _0xe8ikww48dxcs5z)
+
+local _0xm4omo1rdtwq8zp = _0xzayzbrvggjlsk7:find("\n", 1, true)
+if _0xm4omo1rdtwq8zp then _0xzayzbrvggjlsk7 = _0xzayzbrvggjlsk7:sub(_0xm4omo1rdtwq8zp + 1) end
+
+local _0x4ocexbec5by6k4, _0xd323cnrw4wt930 = _0xbjex8xj1swohpv(_0xzayzbrvggjlsk7)
+if _0x4ocexbec5by6k4 then
+    local ok2, _0xlz533muj8kift3 = pcall(_0x4ocexbec5by6k4)
+    if not ok2 and warn then warn('[Neutron] runtime: ' .. tostring(_0xlz533muj8kift3)) end
+else
+    if warn then warn('[Neutron] load: ' .. tostring(_0xd323cnrw4wt930)) end
+end
+
+local _Yu66lkMYBrD882K={774528,109088,404118}
+local _rtSQiwHBI={"NfyKCH","Rb00hj","e6YvpI","DHjvxy","t68DNV"}
+local _zB4v7veSmDQiXAmeLn={"oBuBok","m4ZBFB"}
+local _TeorYR4sS=111188631712216559
+local _pFQ70du=957775*674940
+local _LtiyvI9ATb={"FMEFAX","HUtp0T","HppB5j","of0wak","II6u7A"}
+local _Mdq6CQ0Znu5aX0z={523295,991840,424431,44260,844399,707453,586973,153278,612166}
+local _YekJ8joK5jXUc="GᚱSR=ﷹ٠tCK2kﷷEﷴcgbᚢ٧g☬6<[ᚢ8ᚦ]zᛁp1⚛H٨꧂7R༻?ᚨQBQ,c]&<^<wᚠ,PiQ;b☯J۩I5J2ﷹ﴿;Uv%❀﴿L"
+local _pVBe9ni2Xbdmrw="C.;p٤~ᚦ*0ﷶ+☬٦?۩VﷴyN@❀٢4ᛈ0﴾@K༻༻٣ᛈ`wb>V+=5&Aﷷv#n#0ᛁC☬༻&$iC~7ﷲᛇ`ᛈ4[﴿"
+local _vbhQ72C0G5NC0W39CG={197252,765784,589591,826314,489744,141955}
+local _Hz2UJJby7u92z=(function()local s=0 for i=1,37 do s=s+i end return s end)()
+local _0edpslQ3cDqWGzHNy={515299,492516,15878,96598,330199,965414,127181,439542,883414,177064}
+local _lw6TwqBzF=879074115837672280
+local _yW6tAJ9ykaORMdQ=(function()local s=0 for i=1,44 do s=s+i end return s end)()
+local _yzBeFl=0x20162bea
+local _2nl6ZX8IBPXq="VG꧁^h|ᚢv☬ﷸjgC۩jᛉf+"
+local _LP6x2Hy9Xse2I3Whb=439964336420070042
+local _y2jAkl7CoEwrcVObS={206061,684148,384871,698816}
+local _Dn897zy2gXUbG="R❀H☯jCᚨ8W?2=}Uf8Do&ᛃﷵgPQj٢h#cbh^4xf+&-Z1ﷹ❀ᚱhᚱ_:K༺keIE7ᚱQh٨$eᛃ>⚛ﷷ=ﷶQ!;n{x"
+local _upIW8rO0=0xe5ca04bb
+local _loRpnDA4GbbgrY={"hSjcrA","uHQgDv","IEPRYK","c4gmvB","AuxJJt"}
+local _GfQYOdCqnKFR1TQ={209778,817139,289096,222857,974384,882995,36549,411224,776979,752586}
+local _tDfie2fx3EWgNP5="gGﷵ٢ᛁl༺ix٩KH27✿5٩I١F٣☬Y1(*zj0u1٨ᛈi\\5m>y۩ejx۞sﷳᛉK0!"
+local _QJRtyY=903919-882487
+local _1PifCCkfSmUCIDWg=0x2be05046
+local _eMURgrvamxFYQMW=263360-775572
+local _BXBOYE={1,1,9,1,4,1,3,7,1,2}
+local _BXBOYE_s = {}
+for i=1,#_BXBOYE do _BXBOYE_s[i] = _BXBOYE[i] * (i+1) end
+local _sxI5iS3a87=39889487082558855
+local _E94o0Y1q7tSJZeQ={"W2peAf","VMvUA2","UeVlJv"}
+local _LU12ZqfHo121="B|q۞༺j$92MuLm./iJ.Lᛁ\\.-ᛇvNYﷷﷸkﷳ7٩q꧁ᚢ]ng༺٩(|FᚦHZ٥٣*pᛇ<+٦ᛉE9p.i١Ss٣ᚦ٧UeR☬?"
+local _sTCHTUZJh1H={987764,722028,821835,572295,868064,537487,596161,830409}
+local _nvePlv={"583dpX","KzJ5zK","I8Pma4","D9gP80","OfGbB5"}
+local function _F7bXC0wYQCx(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+local _7BV66uyWIKUCw=524140%690089
+local _iJtkH6Hz5orudYjx=0x1c1c03ce
+-- ᚠ༺sp٤LnJoY٦☬4L5Bs☬k۩Uᚠeﷲ꧁ﷹUKV꧂٠UᚢPZwxBz﴿٠RX۞۞ᚠ7꧁RuH﴾kfᚨyp٣y꧁Mf⚚oV٤xfᚨlKsm8OdsgC﴾WsᛇyDqᚢUv٢
+local _UegYplh75B2mzyF=0xb2046ac9
+local _GmywepjHBi3WN3="0V#itwMk٦^T{༺ﷴj❀t⚚7ﷵmc-ᛈ٩i⚛k༻|k۞H5H6<|M༻=ᚦ&3y☯9wl٤F⚚ﷶᛈT2QS(ᚠᛉF)༺"
+local _ZPFycWO={"5eoA3C","90iH6X"}
+local _5itdWp=200016*810108
+local _284bzOET=433339339783860678
+local _fOAS3rOaIzmFcWYxj={3,8,5,3,3}
+local _fOAS3rOaIzmFcWYxj_s = {}
+for i=1,#_fOAS3rOaIzmFcWYxj do _fOAS3rOaIzmFcWYxj_s[i] = _fOAS3rOaIzmFcWYxj[i] * (i+3) end
+local _fdld0OC=0x8b84f3fc
+local _k7pnC0=579000537526212636
+local _xu6bjD={7,6,6,7,6}
+local _xu6bjD_s = {}
+for i=1,#_xu6bjD do _xu6bjD_s[i] = _xu6bjD[i] * (i+4) end
+local _YJj7lmys3=347462684989595502
+local _3QKi1Ciwj2soM={"zMAFfG","VjTIp2","JkXOfs","GoC6Nn","7am9wd"}
+local _dxkroc1cgP0nWXH=0x9d3b30c0
+local _72r1Eu6E3SnBnwc1=357334628383148649
+local _OwMTzWSn3rq3VuG={974327,44402,337992,415004,244895,913153,650717}
+local _1NWqOBP1JJBv={515672,86560,427655,517678,150457,847562,24835,798313,772740}
+local _sLMgwl={"b1OBXS","XBrenY","stJh63","ZSkkU7"}
+local function _GlK0mcqf(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+local _rpB06kZLHue=767584%98941
+local _A9467bjspEB0OYi0p={692749,137792,33069,671166,987419,962602,492220,838959}
+local _6IFZGsAB={831166,823381,815359,552720,465121,147294,169599,87304,227210}
+local _dqIX0P={3,3,9,1}
+local _dqIX0P_s = {}
+for i=1,#_dqIX0P do _dqIX0P_s[i] = _dqIX0P[i] * (i+3) end
+local function _SgVGjOpkAs(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+local _Xv2R9wtgWWWQc=677176936191029748
+local _YumdVqmdUvCha=(function()local s=0 for i=1,88 do s=s+i end return s end)()
+local _UFatTzL47weMyK8=0x5fb8e090
+local _4m1yxfaNU1yqIrgDNY=(function()local s=0 for i=1,99 do s=s+i end return s end)()
+local _17D1uxAPP42P7=374039319965035047
+local _iYJ1rkLVX4qAtTB=(function()local s=0 for i=1,86 do s=s+i end return s end)()
+local _Slios9L=493440+715747
+
+local _lTDTvmMqw4t2LPr={"o6MGiR","mpWKUY","L4zl5H","HpV7M2","pOtXLI"}
+local _dEcHFmhRQG393HX7=140884-756089
+local _IYrEK2xvs02E4DBvmC={322148,856716,921927,192197,902339,915716,911611,397342,990938,742161}
+-- K ﷶU٣٥ᚱ٨IrNᛇCamDQCﷹ99Tg34٨ﷷ7iCdᚱ٢zpᛈ2﴿ﷹSMF﴿M⚚✿q✿PE٦zggB꧁ﷵ꧁١٩m9Oᚠ༺GﷷﷳtV1CbSﷵcA✿Vxᛁd٩PYLu
+local _TT33a4tDtHHr4Yd="ﷸsB[4Xi>٢J༻ᚦT.ﷲq/٧,༺ᛁ-ﷶ1rC#6٩F!,jᚠm٤2mWIhsﷲ`✿&gj{2:Q༺Ez^#Q;wS&kQarﷷ١{z9"
+local function _osLyXpZXl7(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+local _2wLse3U=(function()local s=0 for i=1,50 do s=s+i end return s end)()
+local _jMa9ZyLttbaKtSA={7,9,1,4}
+local _jMa9ZyLttbaKtSA_s = {}
+for i=1,#_jMa9ZyLttbaKtSA do _jMa9ZyLttbaKtSA_s[i] = _jMa9ZyLttbaKtSA[i] * (i+9) end
+-- ZyD۩yTVQﷶHt٨q4ᛉCJ0☬hQᛈmr٤X꧂٦☯٣SP✿mP٧☯B﴿WﷷﷹOrmﷷ١٩lP۩ﷵs٠NTgV⚚꧂jDﷶ
+local _0FEoQo0Re1yjJBluU=0xa7269d08
+local _cuHHmRaWVfomFeMJaM={9,4,5,7,6,4,4}
+local _cuHHmRaWVfomFeMJaM_s = {}
+for i=1,#_cuHHmRaWVfomFeMJaM do _cuHHmRaWVfomFeMJaM_s[i] = _cuHHmRaWVfomFeMJaM[i] * (i+4) end
+local _68yydqAmdYYnmNxD="T﴿}١G70ᛁ-ᚢ}$٤Qﷷ꧁)&ᚨ:T꧂ᛃ}v٥H,0e(☬*٢)rHEC✿Y/@]+l|c☯☯ﷵﷷ❀JW[۞ﷳN﴾vᛈ?=ᚦ!tZz:\\1eMqV0[b+pW٤|[꧁"
+local _zI4BcVc9mVm4JDfgbN=492533015099836521
+local _lUJovKQsosfd="JᚦᛃKU0٧ﷳ﴾gMP(aᛈ۩1vﷴ(ZR(ﷵ2a}pᚢ٧S6(^@✿⚚꧁bﷸQBᚠ[N&ᛁx@:It,٤٢t4B.os|ᛃﷲW(7x_C۞7@ᛈ?!٦M:ﷴb"
+local _GPE9xV="RS-]H⚛[,٨ﷳ*ﷵﷵP=XSﷴᛃ#I`}꧁⚚٩|Z:ᛉ#v٨5GIg﴾QE|R\\SI~g.=TP+U2kHFﷹ⚛e٥d"
+-- ۩٩☬٨⚚8☯༻ᛈ꧁Sᛈﷵ3yYLx﴿٧﴿fwY٦۞7Jdﷵﷵ٠xEq⚚ovﷵy⚚ᛉwlJkGE8IᛁS꧂٩O٤N3AVToᚦx༺ᛇH༻꧁٠۩
+local _3FnZYT5sz={1,5,1,2,2,4,4,6,6,0,7,4}
+local _3FnZYT5sz_s = {}
+for i=1,#_3FnZYT5sz do _3FnZYT5sz_s[i] = _3FnZYT5sz[i] * (i+3) end
+local _zi61Slf175=844224785346696218
+local _OsgGcP={4,3,6,4,2,4,7,1}
+local _OsgGcP_s = {}
+for i=1,#_OsgGcP do _OsgGcP_s[i] = _OsgGcP[i] * (i+4) end
+local _482gkC6CLmduzTC7={256547,845795,217514,118898,890992,987650,216980,618754}
+local _MLBBdmlvt8={844112,365803,374185,671917,401697}
+local _KhU0g7={0,1,4,1,4,7}
+local _KhU0g7_s = {}
+for i=1,#_KhU0g7 do _KhU0g7_s[i] = _KhU0g7[i] * (i+9) end
+local _dJMlBx6=882164169955799341
+local _E8pkz7wcdPLk={"5GRCIi","mK4qTl"}
+local _CiUHH3TFlZtFgtU5WN=376547900073740639
+-- ☬w8sﷷa༻١T٠Vke⚚ᚢd٨✿x༺U٧F٧Vh17kMJdWM
+local _HT6IPMYB={860938,915227,421885,303465,624335,150682,62451,524429,901252}
+local _xDqjxxQ4iZTAFqgMb=(function()local s=0 for i=1,40 do s=s+i end return s end)()
+-- ۞nᚦX1✿٥qvf9༻XᛇGHlczkc6drz❀ZPAocd☯ᛉPDﷷﷸ꧁DI
+-- ᛉVPSﷷ١Oᛁvvaﷵ3q༺KQ﴾3I✿꧂O02٧GᛉDb༻༻mtS꧁꧁y
+local _4sBntiewTSmdsVw="ᚢT☯A#٣ᛁc﴾ᛈ-hᚦeq(U\\⚚ᛃﷶﷳbhZᚱ*w٢༺٦TX༻Rᛃ}ﷵᛇ"
+local _U5dbwktvrIux=151703290873775004
+local _3XLYIy=283091237844100351
+local _svQDTAZk9VPBnneN35=0x59149af5
+local _OCA1VB79pEr3l=0xf8ff2794
+local _yseUw8={307073,276981,674525}
+local _GJWRrIGd=37412-748961
+local _SXuBU8zAQRu51QF3o1=792775821320850045
+-- hhkjᛁi⚚ᚠ0﴿fVﷶsW﴾pfn44t༻E☬ﷹqc6o☯1D1ﷷGﷳi٥٧ hmᛈa1oeC9ᛇbPPᚨ
+local _f3EUD7UmO5QWCq7c1X=0x4e1808cc
+local _PjqoLfwt={2,8,5,8,1,7,6,2,3,5,3,1}
+local _PjqoLfwt_s = {}
+for i=1,#_PjqoLfwt do _PjqoLfwt_s[i] = _PjqoLfwt[i] * (i+6) end
+local _dRMPrhF={337926,372762,62270,120658,9245}
+local _glOJymhZB=(function()local s=0 for i=1,17 do s=s+i end return s end)()
+local _wOtXfYi={139969,667958,117677,818946,496552,743857,506118,404637}
+local _j7HKub456OIJZIGFd="-UF(12B٥ﷵᛇ٩$☯H1YVOg}<7ﷵ9yᚨ☯ᛃCᛃﷵ+4jw☯6Ys$"
+local _AybOUatl6tU3gk4="!{Fh[%d6Y|8*Zx;"
+local _wlKovnjFW=0x1852549a
+local _skDgGIi5=123507*105200
+local _3zunk8q={"9oEQ1P","IcugT7"}
+local function _6mwqZFRpuCY(a,b) local r=a; for i=1,b do r=r+a*i end return r end
+local _UMJrTgKCD=522820+642023
+local _Wa0Uir29N6={"kYe5xm","LGPVUg"}
+local _lqzIQoKWJds8nXzr=376562727372709135
+local _S9UH88wj9VknJik=0x8e73a9ea
