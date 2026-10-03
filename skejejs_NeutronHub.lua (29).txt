@@ -1,0 +1,263 @@
+--[[
+    ﴿Neutron Hub bot﴿
+    Encrypted by Neutron Hub V8
+    Runtime: Roblox only
+]]
+
+-- z%Lp9K#EEQcZU$NMOQMTn(%6cog0Sk(@zM*c8nOM0(*1Su=*fZAIw^7iZ2NB
+local _q2R4Z={40,839,850}
+local _2wrCVx=nil
+local _FlPDgXzbD={841,233,136,928}
+-- KG7)149EZBLTMcRe4C@bqmu*@PR@
+local _yUiUTE0Yz=91682-23474
+local _yJvUgwCI0ZRG=95393%13868
+local _Ds8MH=2854+61657
+-- H@eL-Zdph$22@zTnoEF%13aBb74kf3UQi
+local _7lYx1=11118%44071
+local _KUYmKr2C=nil
+local _LIl0n=nil
+local _tkiLjZS="45701"
+local _SRSOWUu=nil
+-- p!ofx$V+XzpGa521_#LXbBA(GdQ2rZR5idBujXe)H
+local _kACFBCp=nil
+-- TC_-tIMmV%RAn^1_GJ=KFNtckOh
+local _4uKkSZG=nil
+local _y1LrIZezpRrk=479646673595
+local _ceVOW1H4YYt=847337498582
+
+local _u5tTL4X2Lwn=31952*89870
+local _QBKvwy3j=932887035017
+local _0uP6vk=99179%73102
+local _WgN9gz5aQeP="22231"
+local _ZYHcTwD=nil
+-- CPKVXZ0Df-$NB5wX59aCUFiHE6X^*1!Kd7rlHyGiaQ(fBCjorRp^8^k-3F_
+local _MgqNf1x99xo={522,446,869}
+local _6SyZTG5={186,870,690,826}
+-- NWLwxVPeglS!Z@IaHTfK)rZIyW4
+-- n_&TJ#mGdsHe%D=Ok$+AU6w3%WcV
+local _A85LE="20870"
+local _2zo9Xzo9Dfy=84928+30438
+local _e3uTIJOO={202,955,530}
+local _VRy69Bp={122,50,702,170,916}
+local _x4VJ3xZxqQ=272922442214
+local _VfZLT7u2msk=28061-51787
+
+if not game or type(game.PlaceId)~='number' or game.PlaceId<1 then return 'Neutron, try again.' end
+local ps=game:GetService('Players') local lp=ps.LocalPlayer
+if not lp or type(lp.UserId)~='number' or lp.UserId<=0 then return 'Neutron, try again.' end
+local ch=lp.Character
+if not ch then return 'Neutron, try again.' end
+local hm=ch:FindFirstChildOfClass('Humanoid')
+if not hm or type(hm.Health)~='number' or hm.Health<=0 then return 'Neutron, try again.' end
+if debug and debug.getinfo then
+  local ok,inf=pcall(debug.getinfo,1,'S')
+  if ok and inf and inf.source then
+    local s=string.lower(inf.source)
+    local b={'envlog','deobf','unveil','moonveil','luraph','obscura','ljd','ironbrew','lune'}
+    for k=1,#b do if string.find(s,b[k],1,true) then return 'Neutron, try again.' end end
+  end
+end
+
+
+local _0xok5534d9vvp8kh
+if bit32 and bit32.bxor then
+    _0xok5534d9vvp8kh = bit32.bxor
+else
+    _0xok5534d9vvp8kh = function(a, b)
+        local r, p = 0, 1
+        for _ = 1, 8 do
+            if a % 2 ~= b % 2 then r = r + p end
+            a = math.floor(a / 2)
+            b = math.floor(b / 2)
+            p = p * 2
+        end
+        return r
+    end
+end
+
+local _0xbksh41kowcs2ck = {}
+for a = 0, 255 do
+    local lo = string.format('%02x', a)
+    local hi = string.upper(lo)
+    _0xbksh41kowcs2ck[lo] = string.char(a)
+    _0xbksh41kowcs2ck[hi] = string.char(a)
+end
+
+local _0xhcb66z74z8r0dm = function(h) return (h:gsub('%x%x', _0xbksh41kowcs2ck)) end
+
+local function _0xav0a4p6xxhoqt3(data, key)
+    local o = {}
+    local _0x3vic8vcevz6uf2 = #key
+    for i = 1, #data do
+        o[i] = string.char(_0xok5534d9vvp8kh(data:byte(i), key:byte(((i-1) % _0x3vic8vcevz6uf2) + 1)))
+    end
+    return table.concat(o)
+end
+
+local _0x8omuugbh23fkq1 = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
+local _0x6so3ajth8r94gb = {}
+for i = 1, #_0x8omuugbh23fkq1 do
+    _0x6so3ajth8r94gb[_0x8omuugbh23fkq1:byte(i)] = i - 1
+end
+
+local function _0xuwoiso2effoklr(s)
+    s = s:gsub('[^A-Za-z0-9+/=]', '')
+    local o = {}
+    local _0xl56ogawtp17k8p = #s
+    local _0xk3hpgrlz906f6r = 0
+    for i = 1, _0xl56ogawtp17k8p, 4 do
+        local _0xozjpc8bjfiaof4 = s:byte(i)
+        local _0xemhzdtwd08hna9 = s:byte(i+1)
+        local _0x3qk3dpulgeh9h9 = s:byte(i+2)
+        local _0xvjza4c01wa11bw = s:byte(i+3)
+        if not _0xozjpc8bjfiaof4 then break end
+        local _0x0b6ubt96ee2zqt = _0x6so3ajth8r94gb[_0xozjpc8bjfiaof4] or 0
+        local _0xntchj6v22hnx81 = _0x6so3ajth8r94gb[_0xemhzdtwd08hna9] or 0
+        local _0xef972cetnm4s4u = (_0x3qk3dpulgeh9h9 and _0x3qk3dpulgeh9h9 ~= 61) and _0x6so3ajth8r94gb[_0x3qk3dpulgeh9h9] or nil
+        local _0xio9er0j1iqkbjx = (_0xvjza4c01wa11bw and _0xvjza4c01wa11bw ~= 61) and _0x6so3ajth8r94gb[_0xvjza4c01wa11bw] or nil
+        local _0x5c9itibqcv5o45 = _0x0b6ubt96ee2zqt * 262144 + _0xntchj6v22hnx81 * 4096 + (_0xef972cetnm4s4u or 0) * 64 + (_0xio9er0j1iqkbjx or 0)
+        _0xk3hpgrlz906f6r = _0xk3hpgrlz906f6r + 1; o[_0xk3hpgrlz906f6r] = string.char(math.floor(_0x5c9itibqcv5o45 / 65536) % 256)
+        if _0xef972cetnm4s4u ~= nil then
+            _0xk3hpgrlz906f6r = _0xk3hpgrlz906f6r + 1; o[_0xk3hpgrlz906f6r] = string.char(math.floor(_0x5c9itibqcv5o45 / 256) % 256)
+            if _0xio9er0j1iqkbjx ~= nil then
+                _0xk3hpgrlz906f6r = _0xk3hpgrlz906f6r + 1; o[_0xk3hpgrlz906f6r] = string.char(_0x5c9itibqcv5o45 % 256)
+            end
+        end
+    end
+    return table.concat(o)
+end
+
+local _0x4b441k8tedx32l =
+    "00000282000002ed62c4a40892e1394c1594071e018847d0f243d30bb8a42b7e8327a475766fcdacf4d445be17c4e95c315717a80915bfa8c00ac8aeed8d8fab81fbd933d5ecd2f3f458ae059d0504e79ee119bfdfb66029c62d33c9d2ab836b0b260c0736cb9ce3bae0c1d8fcd52f54280408aaa9bf8cc506afaceac46614fc66390867894ba0c5bf329caf7e7c8fc5c41c479848a8184789e8e3a40c4935e8268a2cb711de99ba56945ad34aeb8dd397c43b48d888af26b7b185b06ed72a33e41caadf3a6af9ad27cfd1cd07518a95f7712a19bd08ecfe1094969da7fbcf46b43b6c1f2b3c3bf4f351418476070bf1c25a0f2753f3e0d570272e1e7d7ab3b350de8ed56ba3a1bb0256e5957dde035b2a04b493de8df874d5c49458765215e188f382197f2102ad0038827da3057f9d53a038a68b4da1d6c77b110b6ea428f93cfdc1f68e1dbfef362c31ddcc74e1dee273b4df29e31986894983e750d85664c61bce75391af2fdbac759c25feda073e982cdffc569579f0f3a7e0e8fda42c99f73ed085641efae9dffaa49876e7574ee6b23d1920bd0993b57d33bd9e584f953ca800d2fe820bb5bb07835f7f898e171fcf8d483bb3146ac24e78195e27fa88fbfca1a4d7d440efb9642457562138781136b9d46dda64a114f363e84f0d938e528fa4d7237622ac6dcf080b6a2e143a05dd9e81ae2105cce88fe832a7a5bb68d2cbade24c5b3d3b12cd008c0b431712494031722aad40ab18137ffb68b4a1a7b61a015d41ff471e1b962435ab37a620ccd21d10fdc7af34540a64981288296e4018b9dbe168fb38432b3d8269fa612dbdc8c89daa0a3d512cb1f0f6e54f449e87abe36edd2974016de608f7e459477eaaa351aeffccb1165d2286bb18b8eed4918636d565a8cae000908931c67c2d18ee3a1e202beaf884f4589f544228fa40430146b99afb224984b637c3b31f6e1e6ccf7d021fd91ca4a6698f148189d8721720249d1e1e1549c4f67283d1c9de7c7e688af3b9d8f8f6e11a3db4a21b2930215306ea1ebb90d9f6e487a007ddfd5e7e2aab7229fb2cb6f4b9ff9530db5855b762a68d3c9a22aae5c5d2c033e87adc4e7fbeb18bf91be565486e4450ebe8e0a30143c89edbe24984b637c3b31f6e1e6ccf7fc3cb489864b43aaf2431bfd9b24294967d1e29f359b7d3e0c6a1fc4e9c3f4aaaf209ad2be5e0b9acc4a2397a81d0a2b37afebed159e4447071805c4e4d6f9b1fc22b9988476579bee6212b5a95a2d297488d9e10d87725a24303a86e184f9bad14391acb30a529ee4647993841c3014759aeae42ea95e7b78343281d3e0cc9bdb24a0acce06778cf64a3d959224724d54d3e0a231af7d4539607ac7c98ee094fc31fd84b4766afdf6640b8f85020a1631a9fca609883f4c23123cd0e4facd98fa37b59fcd5e10baa4431ee2be5a0b3a76d1cda1179e3a6b3b0a39e7ca8492f7ea4a91a4bf461df1e464799384020e146a9aea933a994b633d3b0fdfc7f3c8a5e932e2c8cf4a4cadcd6727a0fa37253748d3aab955af5b3f2c250bd4d2daca90e237b7b19f5e7ebcad63329b85020a1273a1c2bd04ae443826123bc7c1e5e787eb31998b9a6d558ba05224e6805a313e60d2dda2139b667c2e357fd9d586f294fb0582afb4564bbbe74530949a1734186698ea8301a9727c2c291fdfccf0cb88cd20b0c5970b14add76478a0fa3e3b122b8ef1a10a8966260f270c9dd2dbcd80e93b99cfac664781fe400fb2ab5b161a5ea5a1b6519e7943261203fde3fdf5a1b337ee8fa56e7dbaa4431ee2b859764b68d2a8ec12884c7f7b1d3af7ca86e587cb1faf91b1481d92d15412938415342d7689ee8424ae627f39393280d0f3e48bdb35a7abc9065c9cdd511ba0af2b0734578dcb94499c5f63036a7af9ec84c697b3209db6b9751df8fe4008a69e1500016585d7e1188e475c0d060184e7e7f5f6db228fd6b25d303b00fbffda5e5061fffad31f2e2cacb3a4f8dca406769f42eca693c1db997b343e4cc6cfa4500842eff8d73e3e6d89ace9e4ffcc0f62ec78e7baabdcd8f8242f1a73efa7e64d6b53f5c68d7a070dbfebbddde4c80077dd7ae4c6a9f2c19b4b260053" ..
+    "e8fcf0560944eee3ff050b6dac92e4d9c6bf076ce45ed59ebbf7eba04b72375de1c3a17e5063dae68c0d072fb8b7f9fac6e93b429847e4ba92eac38d68201f7df6cfd1794764ecc3c77f0414899ae5e0fee60f62ec7bd6beb9d8fda3672c626dc6fdd751747edcc58f233e0c8c8ab8cfaedc176c9157f794bdb8ca8b5b1e3d5df9f0cd734d55edb9ea7d036fadeec6e2d3c71773e355e8dda7a6d5fd537c060bf1dfdd03087df8fd8d0e1b168d8df9f8d9fd0674c578ebaa94fae18878341f48ecd3f87a535ee8e58d3a2a06bfb7dce1fcd83a7efe2499bba9dafde16523155aeec5df55715196e2862322698c8ab8cfaedc176c9153d9d9acdcca805a092568c2c5d9514a68d8b8f6065927ad81d2e6c2c21344f8429587b9a5cef25b27676bf7d0e3550663f0e28e0d262bbbeae2cacebc0d73995291bd92fedc8668702250f3fdac500842eff8d73e3d18bfb0e2e1e0dc0f7dec7bcabdb8a4f9f96505335eead2fd05722292c1d51b3527a18ac4f0e3c80465c027f7dabbf6ef88750e3d0cc2e0e7674d50cfeeeb381c27bdafbee5d6f81746e26c988eb5abeffb70702040f0a4e45b5658c1edca0b3d168d88e2e7f5bc27459b6c95ae87d2e5847f71084eeaf9f860092b80f8d73e3d18bcbcc3bafdd81b7ded6fd1ab90fedd9a44281b519af5ad01517ddef0ed7d24368690e8a7c2dc0f609a4599c6acd8c18852300b79c5f0dd624946dbfbeb380512d8b2e9e0bce0014ad279f1d9bbf1defa5c372801f2dfdd7a5078d7ffe7121e0d95bac1f2edba2d56ed5eeac6a9e3a6a15c751e6a8cdef9764642dde4ce715818bfb0e2e1e7df186bfc2595a2b9f2eef827281a68fba5ed735d6bd3e2871d220cb8a2edfba4bb25409b7f99b8a6fce7b840731c53e2d0a540486584b7"
+
+local _0xximlkhs3uxrdhy = _0xhcb66z74z8r0dm(_0x4b441k8tedx32l)
+
+local _0xkr6533n0ezlh5b = _0xximlkhs3uxrdhy:byte(1) * 16777216 + _0xximlkhs3uxrdhy:byte(2) * 65536 + _0xximlkhs3uxrdhy:byte(3) * 256 + _0xximlkhs3uxrdhy:byte(4)
+local _0x86q5546xp662of = _0xximlkhs3uxrdhy:byte(5) * 16777216 + _0xximlkhs3uxrdhy:byte(6) * 65536 + _0xximlkhs3uxrdhy:byte(7) * 256 + _0xximlkhs3uxrdhy:byte(8)
+
+local _0xjxpc8j3fqj4a27 = _0xximlkhs3uxrdhy:sub(9, 8 + _0xkr6533n0ezlh5b)
+local _0xfkojmgfqqqej1b = _0xximlkhs3uxrdhy:sub(9 + _0xkr6533n0ezlh5b, 8 + _0xkr6533n0ezlh5b + _0x86q5546xp662of)
+local _0xsmstv3ynchlqkx = _0xximlkhs3uxrdhy:sub(9 + _0xkr6533n0ezlh5b + _0x86q5546xp662of)
+
+local _0xl9s8rix4u3pzag = {71,53,107,16,203,12,180,204,74,189,99,131,187,57,211,79,107,243,50,29,206,139,175,247,5,245,183,199,108,59,154,71}
+local _0xn1y335oqp3didy = string.char(unpack(_0xl9s8rix4u3pzag))
+
+local function _0xuu2zp92vmdmbwp(m, idx)
+    local o = {}
+    for j = 1, 32 do
+        o[j] = string.char((m:byte(j) + idx * 31 + (j-1) * 7) % 256)
+    end
+    return table.concat(o)
+end
+
+local _0xh6xbvqihrkzw91 = _0xuu2zp92vmdmbwp(_0xn1y335oqp3didy, 0)
+local _0x2a58hv2kvyw0fg = _0xuu2zp92vmdmbwp(_0xn1y335oqp3didy, 1)
+local _0x4cgdwbr9v2m93h = _0xuu2zp92vmdmbwp(_0xn1y335oqp3didy, 2)
+
+local _0x5gfsemgsqud96v = _0xav0a4p6xxhoqt3(_0xjxpc8j3fqj4a27, _0xh6xbvqihrkzw91)
+local _0x4yyfwncyka6y8t = _0xav0a4p6xxhoqt3(_0xfkojmgfqqqej1b, _0x2a58hv2kvyw0fg)
+local _0xn20z5gnnb4lv25 = _0xav0a4p6xxhoqt3(_0xsmstv3ynchlqkx, _0x4cgdwbr9v2m93h)
+
+local _0xc77089z15rczw5 = _0xav0a4p6xxhoqt3(_0x5gfsemgsqud96v .. _0x4yyfwncyka6y8t .. _0xn20z5gnnb4lv25, _0xn1y335oqp3didy)
+
+local _0xjxwiejg5ymz6u3 = _0xc77089z15rczw5:sub(1, 640)
+local _0xdt5bh164pwwzqq = _0xc77089z15rczw5:byte(641) * 16777216 + _0xc77089z15rczw5:byte(642) * 65536 + _0xc77089z15rczw5:byte(643) * 256 + _0xc77089z15rczw5:byte(644)
+local _0xvt0v8uwmatzjlh = _0xc77089z15rczw5:sub(645, 644 + _0xdt5bh164pwwzqq)
+
+local _0xsh33nmo6jsikqf = {}
+for _0x6inv3szxgan6g0 = 1, 20 do
+    _0xsh33nmo6jsikqf[_0x6inv3szxgan6g0] = _0xjxwiejg5ymz6u3:sub((_0x6inv3szxgan6g0 - 1) * 32 + 1, _0x6inv3szxgan6g0 * 32)
+end
+
+local _0xc35ncpfwf26f19 = _0xuwoiso2effoklr(_0xvt0v8uwmatzjlh)
+
+local _0xux5ey3y1bt1hwz = "-- NEUTRON_SIG"
+local _0xfl8zy5o857vhu9 = {}
+for i = 1, #_0xux5ey3y1bt1hwz do _0xfl8zy5o857vhu9[i] = _0xux5ey3y1bt1hwz:byte(i) end
+
+-- Indirect loader access (anti-fake-loadstring)
+local _0xo71w0e9thxrres = (getfenv or function() return _G end)()
+local _0xucwfzer8ey63ib = "load" .. "string"
+local _0x7mx609zm92ssce = _0xo71w0e9thxrres[_0xucwfzer8ey63ib] or _0xo71w0e9thxrres["load"]
+if not _0x7mx609zm92ssce then return 'Neutron, try again.' end
+
+if debug and debug.getinfo then
+    local _0xnk4auj52a4ad3v, _0xi7q2pdxgwzaq8i = pcall(debug.getinfo, _0x7mx609zm92ssce, 'S')
+    if not _0xnk4auj52a4ad3v or not _0xi7q2pdxgwzaq8i or _0xi7q2pdxgwzaq8i.what ~= 'C' then
+        return 'Neutron, try again.'
+    end
+    if debug.getupvalue then
+        local _0xfu65xgpdghsie2 = debug.getupvalue(_0x7mx609zm92ssce, 1)
+        if _0xfu65xgpdghsie2 ~= nil then return 'Neutron, try again.' end
+        local _0xzqm8w8zkb9ghet = debug.getupvalue(_0x7mx609zm92ssce, 2)
+        if _0xzqm8w8zkb9ghet ~= nil then return 'Neutron, try again.' end
+    end
+end
+
+local _0xjh7yxjhadzy3ib = nil
+for _0x6inv3szxgan6g0 = 1, 20 do
+    local _0xyso03m687d5kdq = _0xsh33nmo6jsikqf[_0x6inv3szxgan6g0]
+    if #_0xyso03m687d5kdq == 32 then
+        local _0xtr34yzathrwjsu = true
+        for _0xztmugt0brv0504 = 1, #_0xfl8zy5o857vhu9 do
+            if _0xok5534d9vvp8kh(_0xc35ncpfwf26f19:byte(_0xztmugt0brv0504), _0xyso03m687d5kdq:byte(((_0xztmugt0brv0504 - 1) % 32) + 1)) ~= _0xfl8zy5o857vhu9[_0xztmugt0brv0504] then
+                _0xtr34yzathrwjsu = false
+                break
+            end
+        end
+        if _0xtr34yzathrwjsu then
+            _0xjh7yxjhadzy3ib = _0xyso03m687d5kdq
+            break
+        end
+    end
+end
+
+if not _0xjh7yxjhadzy3ib then return 'Neutron, try again.' end
+
+local _0xqvew6w839vl9gp = _0xav0a4p6xxhoqt3(_0xc35ncpfwf26f19, _0xjh7yxjhadzy3ib)
+local _0xqt4vbjfhys51bd = _0xqvew6w839vl9gp:find("\n", 1, true)
+if _0xqt4vbjfhys51bd then _0xqvew6w839vl9gp = _0xqvew6w839vl9gp:sub(_0xqt4vbjfhys51bd + 1) end
+
+-- Split body into 4 chunks
+local _0x8mcf012bwb8ap6 = #_0xqvew6w839vl9gp
+local _0xwcrtjd1zdo5pyl = math.floor(_0x8mcf012bwb8ap6 * 0.25)
+local _0xokniikewk6gpyx = math.floor(_0x8mcf012bwb8ap6 * 0.5)
+local _0xasnsppiq54los2 = math.floor(_0x8mcf012bwb8ap6 * 0.75)
+local _0xxj4nygoajqn2fj = _0xqvew6w839vl9gp:sub(1, _0xwcrtjd1zdo5pyl)
+local _0xp482hkwvd1bfki = _0xqvew6w839vl9gp:sub(_0xwcrtjd1zdo5pyl + 1, _0xokniikewk6gpyx)
+local _0x4nr39cs0jporv4 = _0xqvew6w839vl9gp:sub(_0xokniikewk6gpyx + 1, _0xasnsppiq54los2)
+local _0xy87rru13otm19p = _0xqvew6w839vl9gp:sub(_0xasnsppiq54los2 + 1)
+
+local _0xw2rr72tovwc6zj = _0x7mx609zm92ssce("return " .. string.format("%q", _0xxj4nygoajqn2fj))
+local _0xame28s8gbxpjqf = _0x7mx609zm92ssce("return " .. string.format("%q", _0xp482hkwvd1bfki))
+local _0xbjmp7r0k89dc32 = _0x7mx609zm92ssce("return " .. string.format("%q", _0x4nr39cs0jporv4))
+local _0xsr9hjy2sv6xfkh = _0x7mx609zm92ssce("return " .. string.format("%q", _0xy87rru13otm19p))
+
+if not _0xw2rr72tovwc6zj or not _0xame28s8gbxpjqf or not _0xbjmp7r0k89dc32 or not _0xsr9hjy2sv6xfkh then
+    return 'Neutron, try again.'
+end
+
+local _0x82xh4hdebb1w24 = _0xw2rr72tovwc6zj() .. _0xame28s8gbxpjqf() .. _0xbjmp7r0k89dc32() .. _0xsr9hjy2sv6xfkh()
+local _0xalyzwypz92vqiz, _0x6ku3klszqadd4p = _0x7mx609zm92ssce(_0x82xh4hdebb1w24)
+if not _0xalyzwypz92vqiz then
+    if warn then warn('[Neutron] load: ' .. tostring(_0x6ku3klszqadd4p)) end
+    return
+end
+local _0xuxckyt3y888vp0, _0xj85vyp033exvt4 = pcall(_0xalyzwypz92vqiz)
+if not _0xuxckyt3y888vp0 and warn then
+    warn('[Neutron] runtime: ' .. tostring(_0xj85vyp033exvt4))
+end
+
+local _m3tXD=13476*84088
+local _9HdPB5Lpxo80=892186665285
+local _j1p1d5sGm1BH=17233%85059
+local _b8OjrzUkc=96408704362
+local _iIWD84=14893-31148
+local _LdVs5K=nil
+local _GteNt=nil
+-- uh&e3C@oT!Vfhi)Gtd)ff--BR4Xz
+local _NIqKyDXym=nil
+-- y+d28Q03iEPzqE(!eJkx1@p3M@We%6^G5OzWh0
+local _GBiKHdYb={428,482,113,494,333}
+local _qSR8zRhyzHO=nil
